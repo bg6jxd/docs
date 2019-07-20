@@ -366,10 +366,12 @@ space in highly advanced physical research . <br>
 - [量子科技](https://medium.com/quantum-tech) - 追踪量子技术的发展，订阅月度邮件列表：https://eepurl.com/c10FJz 
 - [量子客](https://www.qtumist.com/links)
 - [Facebook](https://www.facebook.com/quantummachinelearning) - 量子机器学习与量子人工智能
-- [Linkdin](https://www.linkedin.com/groups/8592758)
+- [Linkdin](https://www.linkedin.com/groups/8592758)<br>  
+
 [![PPT 1 (翻墙)](https://image.slidesharecdn.com/quantummachinelearningbasics-170716201841/95/quantum-machine-learning-basics-1-638.jpg?cb=1500236565)](https://docs.google.com/presentation/d/1sqQu3LhX97OIwIEEvDMpzQRh6x52C9XDs1RkbPBM9uM/present)
 [![PPT 2 (翻墙)](https://image.slidesharecdn.com/quantummachinelearningbasics2fromscratch-171107121417/95/quantum-machine-learningbasics2fromscratch-1-638.jpg?cb=1510057257)](https://docs.google.com/presentation/d/1TBmkOkfeIifT73p2ENtnU75JgzMXqj9sOPws378-DPc/present)
-<br>
+<br>  
+
 ![](./sources/machinelearning-setup.jpg)
 
 ---
@@ -389,7 +391,7 @@ space in highly advanced physical research . <br>
 
 ## 感谢！
 
-- 如有问题，可在 `https://github.com/qumoptly/docs/issues `上说明。
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  By qumoptly  2019.7
+- 如有问题，可在 `https://github.com/qumoptly/docs/issues `上说明。<br>  
+&nbsp;&nbsp;&nbsp;&nbsp; By [qumoptly](qumoptly.github.io) | 2019.7
 
 

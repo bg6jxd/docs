@@ -1,7 +1,7 @@
 ![logo](/favicon.ico)
-# 这是一本未完成的书！
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; By qumoptly &nbsp;&nbsp; 2019.07.16  
+# 一本书："quantum machine learning"！
+&nbsp;&nbsp;&nbsp;&nbsp; By [qumoptly](qumoptly.github.io) | 2019.7 2019.07.16  
 
 [主页](https://qumoptly.github.io/)
 ---
-正在进行中。。。
+working...
