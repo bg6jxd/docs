@@ -1,6 +1,5 @@
 # 量子机器学习  
 【[参考：Awesome](https://github.com/sindresorhus/awesome)】
-
 > 精彩的量子机器学习、算法、软件、库等资料。
 
 ## 介绍 
@@ -23,11 +22,11 @@
 该团队的成功制作了一些精彩的产品，他们首先使用该产品提供云服务。现在我们<a href="https://cloud.google.com/vision/">所处的阶段。</a><br>  
 &nbsp;&nbsp;下一个阶段，计算领域必须从经典变为量子，并且开始在大量的量子计算领域工作，市场将这一领域称为量子信息科学。
 这一开始来自Google和IBM的量子计算用于制作量子神经网络的处理器（D-Wave）。
-量子计算机科学和量子信息科学领域将在未来10年内对AI进行重大改变。
+量子计算机科学和量子信息科学领域将在未来10年内对AI进行重大改变。<br>  
 【<a href="https://research.google.com/pubs/QuantumAI.html">谷歌的QuantumAI</a>】 &nbsp;【<a href="http://research.ibm.com/ibm-q/">IBM的ibm-q</a>】
 <br>
   于2016-2017年间我恰好玩过：
-- https://www.chromeexperiments.com/experiment/quantum-computing-playground
+- https://www.chromeexperiments.com/experiment/quantum-computing-playground  <br>
 - https://quantumexperience.ng.bluemix.net/qstage/#/qasm
 
 ---
@@ -45,34 +44,36 @@
 <a href="https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/ ">微软量子相关作品</a>&nbsp;|&nbsp;
 <a href="https://research.googleblog.com/2009/12/machine-learning-with-quantum.html ">谷歌量子机器学习博客</a>&nbsp;|&nbsp;
 <br>  
-
 </p>
+
+---
 
 ## 相关概念
 
 ---
 ### 量子相关
 
-相关概念部分图示
+相关概念部分简单图示: <br>
+
 【量子】
 - 原子结构：  
 ![](./sources/e676966.gif)
 - 光波：  
 ![](./sources/e6a7067.jpg) <br>
-当激光与固体粒子碰撞时，原子的电子将在原子的轨道层之间旋转:  
+当激光与固体粒子碰撞时，原子的电子将在原子的轨道层之间旋转  <br>
 ![](./sources/spinWave.gif)
-- 量子二极管:
+- 量子二极管:  
 ![](./sources/e2e6a7067.jpg)
 ![](./sources/e6a70672.jpg) <br>  
-晶体管默认有源极，漏极和栅极，这里的源极是光子波，漏极是光通量，栅极是量子比特。
-- 量子晶体管: 
+晶体管默认有源极，漏极和栅极，这里的源极是光子波，漏极是光通量，栅极是量子比特。<br> 
+- 量子晶体管:  
 ![](./sources/e706e67.png)
 - 量子处理器:  
 ![](./sources/e2706e67.png)
 - QRAM:  
 ![](./sources/QRAM.png)
 ![](./sources/d466967757.png) <br>  
-- PDF介绍: 
+- PDF介绍:  
 [](https://arxiv.org/pdf/0807.4994.pdf)
 
 
@@ -90,7 +91,7 @@
 ![量子门](./sources/m706e67.png)
 
 【量子计算与经典计算】
-- [对比](http://www.thphys.nuim.ie/staff/joost/TQM/QvC.html]
+- [对比](http://www.thphys.nuim.ie/staff/joost/TQM/QvC.html)
 
 ---
 
@@ -210,7 +211,7 @@ An under research concept ,It can be seen in multiple ways, one best way if you 
 - [QuTiP](http://qutip.org/)
 
 【基于Matlab的量子信息工具包：】
-- [QIT](https://pypi.org/project/qit/)  'pip install qit' 
+- [QIT](https://pypi.org/project/qit/) - 'pip install qit' 
 
 【张量网络机器学习】
 - [TNML](https://github.com/emstoudenmire/TNML)
@@ -235,7 +236,7 @@ An under research concept ,It can be seen in multiple ways, one best way if you 
 - [Q#](https://docs.microsoft.com/en-us/quantum/quantum-WriteAQuantumProgram?view=qsharp-preview)
 
 【IBM Quantum Computer的API】
-- [Qiskit](https://github.com/Qiskit/qiskit-ibmq-provider) 'pip install qiskit'
+- [Qiskit](https://github.com/Qiskit/qiskit-ibmq-provider) - 'pip install qiskit'
 
 【Python ToolKit量子算法模拟项目存储库】
 - [QML](https://github.com/qmlcode/qml)
@@ -260,7 +261,7 @@ An under research concept ,It can be seen in multiple ways, one best way if you 
 - [主页](http://quantumcomputer.ac.cn/)
 
 【用于原子系统的深度神经网络】
-- [Schnetpack](https://github.com/atomistic-machine-learning/schnetpack) 'pip install schnetpack'
+- [Schnetpack](https://github.com/atomistic-machine-learning/schnetpack) - 'pip install schnetpack'
 
 ---
 
@@ -274,7 +275,7 @@ An under research concept ,It can be seen in multiple ways, one best way if you 
 相关讨论：  
 - [Quora 1](https://www.quora.com/How-will-quantum-computing-revolutionize-deep-learning)
 - [Quora 2](https://www.quora.com/Will-quantum-computing-change-machine-learning)
-- [pdf](http://www.scottaaronson.com/papers/qml.pdf)
+- [PDF](http://www.scottaaronson.com/papers/qml.pdf)
 - [Google](https://venturebeat.com/2015/11/11/google-researcher-quantum-computers-arent-perfect-for-deep-learning/)
 - [Microsoft](http://www.physics.usyd.edu.au/quantum/Coogee2015/Presentations/Svore.pdf)
 - [IBM](https://www.rtinsights.com/ibm-quantum-computing-with-machine-learning-in-cloud/)
@@ -283,72 +284,94 @@ An under research concept ,It can be seen in multiple ways, one best way if you 
 
 ---
 
-## 讨论组
+## 讨论组 Meetup
 
 ---
+相关组织：  
 * [Meetup 1](https://www.meetup.com/Quantum-Computing-and-Big-Data/events/past/) - 量子计算与数据科学
-* [Meetup 2](https://www.meetup.com/London-Quantum-Computing-Meetup/) - Quantum Computing London
-* [Meetup 3](https://www.meetup.com/New-York-Quantum-Computing-Meetup/) - Quantum Computing New York
-* [Meetup 4](https://www.meetup.com/Quantum-Computing-and-Big-Data/events/238749477/) - Quantum Computing Canada
-* [Meetup 5](https://www.meetup.com/Austin-Quantum-Computing-Artificial-Intelligence-Meetup/) - Quantum Artificial Intelligence Texas
-* [Meetup 6](https://www.meetup.com/The-NY-Quantum-Theory-Group/) - Genarl Quantum Mechanics , Mathematics New York
-* [Meetup 7](https://www.meetup.com/Quantum-Computers/) - Quantum Computing Mountain View California
-* [Meetup 8](https://www.meetup.com/nyhackr/) - Statistical Analysis New York
-* [Meetup 9](https://www.meetup.com/Quantum-Physics-Meetup-Group/) - Quantum Mechanics London UK
-* [Meetup 10](https://www.meetup.com/Quantum-Physics-Drinks/) - Quantum Physics Sydney Australia
-* [Meetup 11](https://www.meetup.com/Berkeley-Quantum-Physics-Spirituality-Meetup/) - Quantum Physics Berkeley CA
-* [Meetup 12](https://www.meetup.com/QuantumX-Quantum-Computing-Meetup/) - Quantum Computing London UK
-* [Meetup 13](https://www.meetup.com/Carmichael-Quantum-Christians/) - Quantum Mechanics Carmichael CA
-* [Meetup 14](https://www.meetup.com/Relativity-Exploration-of-Portland/) - Maths and Science Group Portland
-* [Meetup 15](https://www.meetup.com/Quantum-Physics-Discussion-Group/) - Quantum Physics Santa Monica, CA
-* [Meetup 16](https://www.meetup.com/Quantum-Vibrational-Healing/) - Quantum Mechanics London
-* [Meetup 17](https://www.meetup.com/London-Quantum-Computing-Meetup/) - Quantum Computing London
-* [Meetup 18](https://www.meetup.com/quantum-metaphysics/) - Quantum Meta Physics ,Kansas City , Missouri ,US
-* [Meetup 19](https://www.meetup.com/Quantum-Content/) - Quantum Mechanics and Physics ,Boston ,Massachusetts ,US
-* [Meetup 20](https://www.meetup.com/Quantum-Organization/) - Quantum Physics and Mechanics ,San Francisco ,California
-* [Meetup 21](https://www.meetup.com/Theoretical-Quantum-Mechanics/) - Quantum Mechanics ,Langhorne, Pennsylvania
-* [Meetup 22](https://www.meetup.com/Portland-Science-Meetup/) - Quantum Mechanics ,Portland
+* [Meetup 2](https://www.meetup.com/London-Quantum-Computing-Meetup/) - 伦敦.量子计算
+* [Meetup 3](https://www.meetup.com/New-York-Quantum-Computing-Meetup/) - 纽约.量子计算
+* [Meetup 4](https://www.meetup.com/Austin-Quantum-Computing-Artificial-Intelligence-Meetup/) - 奥斯汀.量子计算 
+* [Meetup 5](https://www.meetup.com/The-NY-Quantum-Theory-Group/) - 纽约.量子理论
+* [Meetup 6](https://www.meetup.com/Quantum-Computers/) - 加利福利亚.量子理论
+* [Meetup 7](https://www.meetup.com/nyhackr/) - 纽约.开放统计编程
+* [Meetup 8](https://www.meetup.com/Quantum-Physics-Meetup-Group/) - 伦敦.神经科学
+* [Meetup 9](https://www.meetup.com/Relativity-Exploration-of-Portland/) - 波特兰数学与科学小组
+* [Meetup 10](https://www.meetup.com/Quantum-Physics-Discussion-Group/) - 加利福利亚.量子物理讨论组
+* [Meetup 11](https://www.meetup.com/Theoretical-Quantum-Mechanics/) - 宾夕法尼亚.量子力学
+
+---
+
+## 课程
+
+---
+
+相关课程参考： <br>  
+
+![](./sources/cus.png)
+
+- [量子力学](https://www.icourse163.org/course/SJTU-1003674003)
+- [量子力学和计算机](https://inst.eecs.berkeley.edu/~cs191/fa14/)
+- [量子计算](https://www.pluralsight.com/courses/quantum-computing-big-picture)
+- [D-Wave.量子计算](https://www.dwavesys.com/tutorials/background-reading-series/quantum-computing-primer)
+- [微软.量子计算](https://brilliant.org/courses/quantum-computing/)
+- [量子物理学.MIT](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/)
+- [量子计算.MIT](https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/index.htm)
+- [量子计算](https://uwaterloo.ca/institute-for-quantum-computing/)
+- [量子物理学.Niels Bohr](https://www.nbi.ku.dk/english/research/quantum-physics/)
+- [新加坡](https://www.quantumlah.org/)
+- [慕尼黑](http://www.munich-quantum-center.de/index.php?id=89)
+- [量子信息科学课程](https://www.quantiki.org/wiki/courses-quantum-information-science)
+- [量子信息科学](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/)
+- [量子信息](http://qis.mit.edu/courses.php)
+- [量子信息](http://quic.ulb.ac.be/teaching)
+- [量子信息.UMD](http://quics.umd.edu/research)
+- [量子信息](https://web.stanford.edu/group/yamamotogroup/)
+- [奥地利](https://iqoqi.at/en)
+- [量子电子学](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/)
+- [量子电子学和光学](http://www.ece.utexas.edu/research/areas/plasma-quantum-electronics-and-optics)
+- [ICFO](http://quantumtech.icfo.eu/madeicfo/)
+- [相对论量子场论](https://ocw.mit.edu/courses/physics/8-323-relativistic-quantum-field-theory-i-spring-2008/)
+- [量子场论与弦理论](https://itp.phys.ethz.ch/research/qftstrings.html)
+- [量子科学与技术](https://nccr-qsit.ethz.ch/)
+- [有效场论](https://courses.edx.org/courses/MITx/8.EFTx/3T2014/course/)
+- [量子计算机科学](https://www.cs.ox.ac.uk/teaching/courses/quantum/)
+- [PSI](https://perimeterinstitute.ca/training/psi-masters-program/psi-courses)
+- [机器学习数学](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/)
+---
+
+## 综合资源
+
+---
+
+ 博客、论坛、Paper等  <br>  
+
+- [FOSDEM 2019量子会谈](https://fosdem.org/2019/schedule/track/quantum_computing/)
+- [彼得威特克](http://peterwittek.com/index.html)
+- [热门arXiv](https://scirate.com/) - arxiv.org
+- [量子科技](https://medium.com/quantum-tech) - 追踪量子技术的发展，订阅月度邮件列表：https://eepurl.com/c10FJz 
+- [量子客](https://www.qtumist.com/links)
+- [Facebook](https://www.facebook.com/quantummachinelearning) - 量子机器学习与量子人工智能
+- [Linkdin](https://www.linkedin.com/groups/8592758)
+
+![](./sources/machinelearning-setup.jpg)
+
+---
 
 
+腾云漫画：<br>  
 
-- []()
-- []()
+---
 
+![](./sources/1.jpg)
+![](./sources/2.jpg)
+![](./sources/3.jpg)
+![](./sources/4.jpg) <br>
+【若侵权可删除】
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-![](./sources/.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 感谢！
 
 
 
