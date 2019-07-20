@@ -73,8 +73,7 @@
 - QRAM:  
 ![](./sources/QRAM.png)
 ![](./sources/d466967757.png) <br>  
-- PDF介绍:  
-[](https://arxiv.org/pdf/0807.4994.pdf)
+- PDF介绍: [PDF](https://arxiv.org/pdf/0807.4994.pdf)
 
 
 【叠加态】
