@@ -25,9 +25,10 @@
 量子计算机科学和量子信息科学领域将在未来10年内对AI进行重大改变。<br>  
 【<a href="https://research.google.com/pubs/QuantumAI.html">谷歌的QuantumAI</a>】 &nbsp;【<a href="http://research.ibm.com/ibm-q/">IBM的ibm-q</a>】
 <br>
-  于2016-2017年间我恰好玩过： <br>
-  `https://www.chromeexperiments.com/experiment/quantum-computing-playground`  <br>
-  `https://quantumexperience.ng.bluemix.net/qstage/#/qasm`
+于2016-2017年间我恰好玩过：  <br>
+
+`https://www.chromeexperiments.com/experiment/quantum-computing-playground `  <br>
+`https://quantumexperience.ng.bluemix.net/qstage/#/qasm `  <br>
 
 ---
 
