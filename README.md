@@ -55,7 +55,7 @@
 
 相关概念部分简单图示: <br>
 
-【量子】
+**【量子】**
 - 原子结构：  
 ![](./sources/e676966.gif)
 - 光波：  
@@ -76,20 +76,21 @@
 - PDF介绍: [PDF](https://arxiv.org/pdf/0807.4994.pdf)
 
 
-【叠加态】
+**【叠加态】**
 
 ![叠加](./sources/g6f6e2e474946.jpg)
 
-【量子纠缠】
+**【量子纠缠】**
 
 ![量子纠缠图像](./sources/f35452.jpg)
 
-【Qubit】
+**【Qubit】**
 
 ![Qubit](./sources/42e706e67.png)
 ![量子门](./sources/m706e67.png)
 
-【量子计算与经典计算】
+**【量子计算与经典计算】**
+
 - [对比](http://www.thphys.nuim.ie/staff/joost/TQM/QvC.html)
 
 ---
@@ -116,42 +117,42 @@
 
 ### 量子机器学习算法
 
-Quantum K-Nearest Neighbour (K值邻近) <br>  
+#### Quantum K-Nearest Neighbour (K值邻近) <br>  
 info : Here the centroid(euclidean distance) can be detected using the swap gates test between two states of the qubit , As KNN is regerssive loss can be tally using the average
 - [理论解释](https://www.microsoft.com/en-us/research/publication/quantum-nearest-neighbor-algorithms-for-machine-learning/)
 - [了解基本知识](https://arxiv.org/pdf/1409.3097.pdf)
 - [将在Matlab上实现](https://github.com/krishnakumarsekar/)
 - [将在Python上实现](https://github.com/krishnakumarsekar/)
 
-Quantum K-Means (k均值) <br>  
+#### Quantum K-Means (k均值) <br>  
 info : Two Approaches possible ,1. FFT and iFFT to make an oracle and calculate the means of superposition 2. Adiobtic Hamiltonian generation and solve the hamiltonian to determine the cluster
 - [在图像上的应用](https://pdfs.semanticscholar.org/6d77/54d33958b4a41d57ec99558eb28ae88f9884.pdf)
 - [理论简介](http://www.machinelearning.org/proceedings/icml2007/papers/518.pdf)
 - [用哈密尔顿函数解释 K平均算法](https://arxiv.org/pdf/1307.0411.pdf)
 
-Quantum Fuzzy C-Means (C均值模糊) <br>  
+#### Quantum Fuzzy C-Means (C均值模糊) <br>  
 info : As similar to kmeans fcm also using the oracle dialect ,but instead of means,here oracle optimization followed by a rotation gate is giving a good result
 - [理论](https://pdfs.semanticscholar.org/6d77/54d33958b4a41d57ec99558eb28ae88f9884.pdf)
 
-Quantum Support Vector Machine (向量机) <br>  
+#### Quantum Support Vector Machine (向量机) <br>  
 info : A little different from above as here kernel preparation is via classical and the whole training be in oracles and oracle will do the classification, As SVM is linear ,An optimal Error(Optimum of the Least Squares Dual Formulation) Based regression is needed to improve the performance
 - [介绍](https://arxiv.org/pdf/1307.0471.pdf)
 - [应用](http://www.scirp.org/journal/PaperInformation.aspx?paperID=72542)
 
-Quantum Genetic Algorithm (遗传算法) <br>  
+#### Quantum Genetic Algorithm (遗传算法) <br>  
 info : One of the best algorithm suited for Quantum Field ,Here the chromosomes act as qubit vectors ,the crossover part carrying by an evaluation and the mutation part carrying by the rotation of gates <br>  
 ![](./sources/6874067.jpg)
 - [介绍](https://www.hindawi.com/journals/mpe/2013/730749/)
 - [理论](https://arxiv.org/pdf/1202.2026.pdf)
 - [对比](http://ccis2k.org/iajit/PDF/vol.9,no.3/2107-6.pdf)
 
-Quantum Hidden Morkov Models (马尔科夫模型) <br>  
+#### Quantum Hidden Morkov Models (马尔科夫模型) <br>  
 info : As HMM is already state based ,Here the quantum states acts as normal for the markov chain and the shift between states is using quantum operation based on probability distribution <br>  
 ![](./sources/quantum HMM.png)
 - [文章1](https://arxiv.org/pdf/1503.08760.pdf)
 - [文章2](https://arxiv.org/pdf/1207.4304.pdf)
 
-Quantum state classification with Bayesian methods (叶贝斯) <br>  
+#### Quantum state classification with Bayesian methods (叶贝斯) <br>  
 info : Quantum Bayesian Network having the same states concept using quantum states,But here the states classification to make the training data as reusable is based on the density of the states(Interference) <br>  
 ![](./sources/696f.jpg)
 ![](./sources/d7573696e672d66.jpg)
@@ -159,15 +160,15 @@ info : Quantum Bayesian Network having the same states concept using quantum sta
 - [理论](https://arxiv.org/pdf/1204.1550.pdf)
 - [介绍](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4726808/)
 
-Quantum Ant Colony Optimization (蚁群算法) <br>  
+#### Quantum Ant Colony Optimization (蚁群算法) <br>  
 info : A good algorithm to process multi dimensional equations, ACO is best suited for Sales man issue , QACO is best suited for Sales man in three or more dimension, Here the quantum rotation circuit is doing the peromene update and qubits based colony communicating all around the colony in complex space <br>  
 ![](./sources/687067.jpg)
 - [概念](http://ac.els-cdn.com/S2212667812001359/1-s2.0-S2212667812001359-main.pdf?_tid=42e0cd66-2f4a-11e7-920f-00000aacb361&acdnat=1493738345_8f536599e404c7588811ddd49c484688)
 - [应用](http://www.sersc.org/journals/IJMUE/vol10_no11_2015/19.pdf)
 
-Quantum Cellular Automata (元胞自动机) <br>  
+#### Quantum Cellular Automata (元胞自动机) <br>  
 info : One of the very complex algorithm with various types specifically used for polynomial equations and to design the optimistic gates for a problem, Here the lattice is formed using the quatum states and time calculation is based on the change of the state between two qubits ,Best suited for nano electronics <br>  
-![](./sources/ta2-color_orig b.jpg)
+![](./sources/tag2color.jpg)
 - [相关](https://arxiv.org/pdf/0808.0679.pdf)
 - [应用](http://ieee-hpec.org/2013/index_htm_files/7-Improved-Eigensolver-Baldwin-2867489.pdf)
 
