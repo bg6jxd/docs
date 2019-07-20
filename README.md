@@ -283,14 +283,15 @@ space in highly advanced physical research . <br>
 &nbsp;&nbsp;正如《量子机器学习》一书中所说，深度学习的优势在于可以简单地对数据进行批处理，而量子机器学习则是根据算法进行批处理。
 <br>  
 【相关讨论：】  
-- [Quora 1](https://www.quora.com/How-will-quantum-computing-revolutionize-deep-learning)
-- [Quora 2](https://www.quora.com/Will-quantum-computing-change-machine-learning)
+
 - [PDF](http://www.scottaaronson.com/papers/qml.pdf)
 - [Google](https://venturebeat.com/2015/11/11/google-researcher-quantum-computers-arent-perfect-for-deep-learning/)
 - [Microsoft](http://www.physics.usyd.edu.au/quantum/Coogee2015/Presentations/Svore.pdf)
 - [IBM](https://www.rtinsights.com/ibm-quantum-computing-with-machine-learning-in-cloud/)
 - [IBM Project](https://www.ibm.com/blogs/research/2017/03/quantum-algorithm-classifies-9500-handwritten-numbers/)
 - [MIT and Google ](https://www.technologyreview.com/s/544421/googles-quantum-dream-machine/)
+- [Quora 1(翻墙)](https://www.quora.com/How-will-quantum-computing-revolutionize-deep-learning)
+- [Quora 2(翻墙)](https://www.quora.com/Will-quantum-computing-change-machine-learning)
 
 ---
 
@@ -348,6 +349,9 @@ space in highly advanced physical research . <br>
 - [量子计算机科学](https://www.cs.ox.ac.uk/teaching/courses/quantum/)
 - [PSI](https://perimeterinstitute.ca/training/psi-masters-program/psi-courses)
 - [机器学习数学](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/)
+- [Quora 1(翻墙)](https://www.quora.com/Quantum-Computing-vs-Artificial-Intelligence-for-a-PhD)
+- [Quora 2(翻墙)](uora.com/Where-can-you-get-a-PhD-in-quantum-machine-learning)
+
 ---
 
 ## 综合资源
