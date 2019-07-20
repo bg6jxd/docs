@@ -26,8 +26,8 @@
 【<a href="https://research.google.com/pubs/QuantumAI.html">谷歌的QuantumAI</a>】 &nbsp;【<a href="http://research.ibm.com/ibm-q/">IBM的ibm-q</a>】
 <br>
   于2016-2017年间我恰好玩过： <br>
-- `https://www.chromeexperiments.com/experiment/quantum-computing-playground`  <br>
-- `https://quantumexperience.ng.bluemix.net/qstage/#/qasm`
+  `https://www.chromeexperiments.com/experiment/quantum-computing-playground`  <br>
+  `https://quantumexperience.ng.bluemix.net/qstage/#/qasm`
 
 ---
 
@@ -397,6 +397,6 @@ space in highly advanced physical research . <br>
 ## 感谢！
 
 - 如有问题，可在 `https://github.com/qumoptly/docs/issues `上说明。<br>  
-&nbsp;&nbsp;&nbsp;&nbsp; By [qumoptly](qumoptly.github.io) | 2019.7
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By [qumoptly](qumoptly.github.io) | 2019.7
 
 
