@@ -26,8 +26,8 @@
 【<a href="https://research.google.com/pubs/QuantumAI.html">谷歌的QuantumAI</a>】 &nbsp;【<a href="http://research.ibm.com/ibm-q/">IBM的ibm-q</a>】
 <br>
   于2016-2017年间我恰好玩过： <br>
-- https://www.chromeexperiments.com/experiment/quantum-computing-playground  <br>
-- https://quantumexperience.ng.bluemix.net/qstage/#/qasm
+- `https://www.chromeexperiments.com/experiment/quantum-computing-playground`  <br>
+- `https://quantumexperience.ng.bluemix.net/qstage/#/qasm`
 
 ---
 
@@ -102,6 +102,7 @@
 ### 量子计算简介
 
 &nbsp;&nbsp;正常Waves Interference是n维结构，找到一个多项式方程n阶曲线，更好的选项是复数。<br> 
+
 ![](./sources/6f73322e706e67.png) <br>  
 张量：
 向量在二维向量空间中有一个方向，如果在一个维向量空间，向量方向可以用张量指定，
@@ -148,7 +149,7 @@ info : One of the best algorithm suited for Quantum Field ,Here the chromosomes 
 
 #### Quantum Hidden Morkov Models (马尔科夫模型) <br>  
 info : As HMM is already state based ,Here the quantum states acts as normal for the markov chain and the shift between states is using quantum operation based on probability distribution <br>  
-![](./sources/quantum HMM.png)
+![](./sources/HMM.png)
 - [文章1](https://arxiv.org/pdf/1503.08760.pdf)
 - [文章2](https://arxiv.org/pdf/1207.4304.pdf)
 
@@ -208,7 +209,11 @@ space in highly advanced physical research . <br>
 
 ---
 
-### 量子程序设计语言、平台、工具和软件
+## 实验平台
+
+---
+
+### 量子程序设计语言、平台、工具及软件
 
 <br>  
 
