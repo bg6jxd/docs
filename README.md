@@ -101,7 +101,7 @@
 ---
 ### 量子计算简介
 
-正常Waves Interference是n维结构，找到一个多项式方程n阶曲线，更好的选项是复数。<br> 
+&nbsp;&nbsp;正常Waves Interference是n维结构，找到一个多项式方程n阶曲线，更好的选项是复数。<br> 
 ![](./sources/6f73322e706e67.png) <br>  
 张量：
 向量在二维向量空间中有一个方向，如果在一个维向量空间，向量方向可以用张量指定，
@@ -176,7 +176,9 @@ info : One of the very complex algorithm with various types specifically used fo
 
 ### QAUNTUM NEURAL NETWORK (神经网络)
 
-Its really one of the hardest topic , To understand easily ,Normal Neural Network is doing parallel procss ,QNN is doing parallel of parallel processess ,In theory combination of various activation functions is possible in QNN ,In Normal NN more than one activation function reduce the performance and increase the complexity <br>  
+&nbsp;&nbsp;Its really one of the hardest topic , To understand easily ,Normal Neural Network is doing parallel procss ,QNN is doing parallel of parallel processess ,
+In theory combination of various activation functions is possible in QNN .
+In Normal NN more than one activation function reduce the performance and increase the complexity . <br>  
 ![](./sources/6d6e6e2e706e67.png)
 <br>  
 量子感知 <br>  
@@ -190,7 +192,14 @@ Its really one of the hardest topic , To understand easily ,Normal Neural Networ
 
 ### QAUNTUM STATISTICAL DATA ANALYSIS (统计数据分析)
 
-An under research concept ,It can be seen in multiple ways, one best way if you want to apply n derivative for a problem in current classical theory its difficult to compute as its serialization problem instead if you do parallelization of differentiation you must estimate via probability the value in all flows ,Quantum Probability Helps to achieve this ,as the loss calculation is very less . the other way comparatively booming is Quantum Bayesianism, its a solution to solve most of the uncertainity problem in statistics to combine time and space in highly advanced physical research <br>  
+&nbsp;&nbsp;An under research concept ,It can be seen in multiple ways, 
+one best way if you want to apply n derivative for a problem in current classical theory its difficult to compute as its 
+serialization problem instead if you do parallelization of differentiation 
+you must estimate via probability the value in all flows ,
+Quantum Probability Helps to achieve this ,as the loss calculation is very less . 
+the other way comparatively booming is Quantum Bayesianism, 
+its a solution to solve most of the uncertainity problem in statistics to combine time and 
+space in highly advanced physical research . <br>  
 ![](./sources/6e796d6978.jpg)
 ![](./sources/d696e696d6178.jpg)
 ![](./sources/6e696d6178.jpg)
@@ -201,6 +210,7 @@ An under research concept ,It can be seen in multiple ways, one best way if you 
 
 ### 量子程序设计语言、平台、工具和软件
 
+<br>  
 
 ![](./sources/0_51Z2Z8OuB1jALk61.png)
 
@@ -211,7 +221,7 @@ An under research concept ,It can be seen in multiple ways, one best way if you 
 - [QuTiP](http://qutip.org/)
 
 【基于Matlab的量子信息工具包：】
-- [QIT](https://pypi.org/project/qit/) - 'pip install qit' 
+- [QIT](https://pypi.org/project/qit/) - `pip install qit `
 
 【张量网络机器学习】
 - [TNML](https://github.com/emstoudenmire/TNML)
@@ -236,7 +246,7 @@ An under research concept ,It can be seen in multiple ways, one best way if you 
 - [Q#](https://docs.microsoft.com/en-us/quantum/quantum-WriteAQuantumProgram?view=qsharp-preview)
 
 【IBM Quantum Computer的API】
-- [Qiskit](https://github.com/Qiskit/qiskit-ibmq-provider) - 'pip install qiskit'
+- [Qiskit](https://github.com/Qiskit/qiskit-ibmq-provider) - `pip install qiskit`
 
 【Python ToolKit量子算法模拟项目存储库】
 - [QML](https://github.com/qmlcode/qml)
@@ -261,7 +271,7 @@ An under research concept ,It can be seen in multiple ways, one best way if you 
 - [主页](http://quantumcomputer.ac.cn/)
 
 【用于原子系统的深度神经网络】
-- [Schnetpack](https://github.com/atomistic-machine-learning/schnetpack) - 'pip install schnetpack'
+- [Schnetpack](https://github.com/atomistic-machine-learning/schnetpack) - `pip install schnetpack`
 
 ---
 
@@ -270,9 +280,9 @@ An under research concept ,It can be seen in multiple ways, one best way if you 
 ---
 &nbsp;&nbsp;所有的经典算法都是基于串行处理的，它依赖于第一个循环的反馈，在多机群中应用串行经典算法并不能得到很好的结果，
 但是一些轻量级的并行经典算法(深度学习)在多机群中执行任务，不适用于复杂问题，那么该算法的解决方案是什么？<br>
-正如《量子机器学习》一书中所说，深度学习的优势在于可以简单地对数据进行批处理，而量子机器学习则是根据算法进行批处理。
-<br><br>  
-相关讨论：  
+&nbsp;&nbsp;正如《量子机器学习》一书中所说，深度学习的优势在于可以简单地对数据进行批处理，而量子机器学习则是根据算法进行批处理。
+<br>  
+【相关讨论：】  
 - [Quora 1](https://www.quora.com/How-will-quantum-computing-revolutionize-deep-learning)
 - [Quora 2](https://www.quora.com/Will-quantum-computing-change-machine-learning)
 - [PDF](http://www.scottaaronson.com/papers/qml.pdf)
@@ -287,7 +297,7 @@ An under research concept ,It can be seen in multiple ways, one best way if you 
 ## 讨论组 Meetup
 
 ---
-相关组织：  
+【相关组织：】  
 * [Meetup 1](https://www.meetup.com/Quantum-Computing-and-Big-Data/events/past/) - 量子计算与数据科学
 * [Meetup 2](https://www.meetup.com/London-Quantum-Computing-Meetup/) - 伦敦.量子计算
 * [Meetup 3](https://www.meetup.com/New-York-Quantum-Computing-Meetup/) - 纽约.量子计算
@@ -306,7 +316,7 @@ An under research concept ,It can be seen in multiple ways, one best way if you 
 
 ---
 
-相关课程参考： <br>  
+【相关课程参考：】 <br>  
 
 ![](./sources/cus.png)
 
@@ -344,7 +354,7 @@ An under research concept ,It can be seen in multiple ways, one best way if you 
 
 ---
 
- 博客、论坛、Paper等  <br>  
+【博客、论坛、Paper等】  <br>  
 
 - [FOSDEM 2019量子会谈](https://fosdem.org/2019/schedule/track/quantum_computing/)
 - [彼得威特克](http://peterwittek.com/index.html)
@@ -353,13 +363,15 @@ An under research concept ,It can be seen in multiple ways, one best way if you 
 - [量子客](https://www.qtumist.com/links)
 - [Facebook](https://www.facebook.com/quantummachinelearning) - 量子机器学习与量子人工智能
 - [Linkdin](https://www.linkedin.com/groups/8592758)
-
+[![PPT 1 (翻墙)](https://image.slidesharecdn.com/quantummachinelearningbasics-170716201841/95/quantum-machine-learning-basics-1-638.jpg?cb=1500236565)](https://docs.google.com/presentation/d/1sqQu3LhX97OIwIEEvDMpzQRh6x52C9XDs1RkbPBM9uM/present)
+[![PPT 2 (翻墙)](https://image.slidesharecdn.com/quantummachinelearningbasics2fromscratch-171107121417/95/quantum-machine-learningbasics2fromscratch-1-638.jpg?cb=1510057257)](https://docs.google.com/presentation/d/1TBmkOkfeIifT73p2ENtnU75JgzMXqj9sOPws378-DPc/present)
+<br>
 ![](./sources/machinelearning-setup.jpg)
 
 ---
 
 
-腾云漫画：<br>  
+**腾云漫画：** 如若侵权，则删除。<br>  
 
 ---
 
@@ -373,6 +385,7 @@ An under research concept ,It can be seen in multiple ways, one best way if you 
 
 ## 感谢！
 
-
+- 如有问题，可在 `https://github.com/qumoptly/docs/issues `上说明。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  By qumoptly  2019.7
 
 
