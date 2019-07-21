@@ -51,6 +51,14 @@
 
 ## 相关概念
 
+### 量子之旅：  
+
+---
+
+<div align=center>
+  <object width="100%" data="https://quantumtour.icfo.eu/"></object>  
+</div>  
+
 ---
 ### 量子相关
 
