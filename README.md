@@ -52,11 +52,12 @@
 ## 相关概念
 
 ### 量子之旅：  
+- [Source](https://quantumtour.icfo.eu)  
 
 ---
 
 <div align=center>
-  <object width="100%" data="https://quantumtour.icfo.eu/"></object>  
+  <object height="100%" data="https://quantumtour.icfo.eu/"></object>  
 </div>  
 
 ---
