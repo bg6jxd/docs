@@ -2,6 +2,6 @@
 # 《quantum machine learning》
 
 ---
-### &nbsp;&nbsp; By qumoptly  |  2019.07   <br>
+#### &nbsp;&nbsp; [By qumoptly  |  2019.07](https://qumoptly.github.io/)  <br>
 
 ## working...
