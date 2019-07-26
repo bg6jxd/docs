@@ -376,6 +376,8 @@ space in highly advanced physical research . <br>
 【博客、论坛、Paper等】  <br>  
 
 - [FOSDEM 2019量子会谈](https://fosdem.org/2019/schedule/track/quantum_computing/)
+- [Max Planck](https://qumoptly.github.io/blog/2019/07/18/%E5%85%B3%E4%BA%8E%E9%A9%AC%E5%85%8B%E6%96%AF%E6%99%AE%E6%9C%97%E5%85%8B%E9%87%8F%E5%AD%90%E5%85%89%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80/) -关于马克斯普朗克研究所收集的部分资料
+- [Gla.ac](https://qumoptly.github.io/blog/2019/07/18/%E5%85%B3%E4%BA%8E%E6%A0%BC%E6%8B%89%E6%96%AF%E5%93%A5/) - 关于Glasgow上收集的部分资料
 - [彼得威特克](http://peterwittek.com/index.html)
 - [热门arXiv](https://scirate.com/) - arxiv.org
 - [量子科技](https://medium.com/quantum-tech) - 追踪量子技术的发展，订阅月度邮件列表：https://eepurl.com/c10FJz 
@@ -390,6 +392,8 @@ space in highly advanced physical research . <br>
 ![](./sources/machinelearning-setup.jpg)
 
 ---
+
+【其他】
 
 ![](./sources/072.jpg)
 
