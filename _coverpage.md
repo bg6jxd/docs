@@ -1,9 +1,9 @@
 ![logo](/favicon.ico)
-# 目录
+# [目录](./_coverpage.md)
 
-## [quantum machine learning](./quantum-machine-learning.md)
+## [《quantum machine learning》](./quantum-machine-learning.md)
 
-## [Brain]()
+## [《Brain》]()
 
 ---
 #### &nbsp;&nbsp; [V1.0 by qumoptly  |  2019.07](https://qumoptly.github.io/)  <br>
