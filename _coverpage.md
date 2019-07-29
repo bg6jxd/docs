@@ -1,5 +1,5 @@
 ![logo](/favicon.ico)
-# [目录](_coverpage.md)
+# 目录
 
 ## [《quantum machine learning》](quantum-machine-learning.md)
 
