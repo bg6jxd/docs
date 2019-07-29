@@ -1,7 +1,7 @@
 ![logo](/favicon.ico)
-# [目录](./_coverpage.md)
+# [目录](_coverpage.md)
 
-## [《quantum machine learning》](./quantum-machine-learning.md)
+## [《quantum machine learning》](quantum-machine-learning.md)
 
 ## [《Brain》]()
 
