@@ -1,5 +1,5 @@
 
 ---
 
-* [量子机器学习](/)
+* [量子机器学习](./quantum-machine-learning.md)
 
