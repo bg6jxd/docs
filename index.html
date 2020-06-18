@@ -29,13 +29,50 @@
 	  mergeNavbar: true, //小屏合并导航栏到侧边栏
 	  formatUpdated: '{MM}/{DD} {HH}:{mm}', //通过 {docsify-updated} 变量显示文档更新日期。
 	  notFoundPage: true, //_404.md
+	  search: {
+		placeholder: '搜索',
+		noData: '找不到结果',
+		depth: 3, // 搜索标题的最大层级, 1 - 6
+	  // maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+      // paths: [], // or 'auto'
+      // 支持本地化
+      //placeholder: {
+        //'/zh-cn/': '搜索',
+        //'/': 'Type to search'
+      //},
+      //noData: {
+        //'/zh-cn/': '找不到结果',
+        //'/': 'No Results'
+      //},
+	  },
+	  count:{
+		countable: true,
+		position: 'bottom',
+		margin: '10px',
+		float: 'right',
+		fontsize:'0.9em',
+		color:'rgb(90,90,90)',
+		language:'chinese',
+		localization: {
+		words: "",
+		minute: ""
+		},
+		isExpected: true
+	  },
 
     }
   </script>
   <script src="./lib/docsify.min.js"></script>
   <script src="./lib/emoji.js"></script>
+  <script src="./lib/emoji.min.js"></script>
   <script src="./lib/external-script.js"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
+  <script src="./lib/external-script.min.js"></script>
+  <script src="./lib/zoom-image.js"></script>
+  <script src="./lib/zoom-image.min.js"></script>
   <script src="./lib/docsify-copy-code.min.js"></script>
+  <script src="./lib/docsify-pagination.min.js"></script>
+  <script src="./lib/countable.js"></script>
+  <script src="./lib/search.min.js"></script>
+  <script src="./lib/docsify-slides.min.js"></script>
 </body>
 </html>

@@ -53,12 +53,7 @@
 
 ### 量子之旅：  
 - [Source](https://quantumtour.icfo.eu)  
-
----
-
-<div align=center>
-  <object width="1200" height="720" data="https://quantumtour.icfo.eu/"></object>  
-</div>  
+![](./sources/icfo.png)
 
 ---
 ### 量子相关
