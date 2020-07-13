@@ -1,0 +1,655 @@
+date:2020.07 
+
+---------------------------------
+solid:
+001Mon premier laser à rubis 1968
+Mon second laser à rubis
+002Mon second laser à rubis
+003 Mon premier laser verre au Nd pompé flash
+003 Mon premier laser verre au Nd pompé flash
+Laser verre au néodyme de 200J relaxé
+066 Laser verre au néodyme de 200J relaxé
+Q-switch Ruby LASER with Scott RG 695
+084 Q-switch Ruby LASER with Scott RG 695
+DPSS YAG Coronavirus
+093 DPSS YAG Coronavirus
+
+085 Yb:YAG cw Disk Laser
+085 Yb:YAG cw Disk Laser
+KATANA 05 picosecond laser green-reed
+KATANA 05 picosecond laser green-reed
+
+MIRA900 femtosecond laser
+MIRA900 femtosecond laser
+COHERENT REGA9000 femtosecond laser
+COHERENT REGA9000 femtosecond laser
+CHEETAH picosecond laser
+CHEETAH picosecond laser
+
+UV picosecond 240 MHz laser PALADIN
+UV picosecond 80 MHz laser PALADIN
+High Q picoseconde laser
+High Q picoREGEN laser
+
+MXR1020 Regenerative Amplifier CLARK
+MXR2010 Regenerative Amplifier CLARK
+
+High Q LASERS 100fs
+High Q LASERS 100fs
+Picosecond oscillateur GE100 Time & Bandwith
+Picosecond oscillateur GE100 Time & Bandwith
+Raydiance femtosecond high energy fiber laser
+Raydiance femtosecond high energy fiber laser
+Rofin femtosecond laser 660MW
+Rofin femtosecond laser 660 Mégawatts
+OPAL Spectra Physics Oscillateur Parametric Femtoseconde
+OPAL Spectra Physics Oscillateur Parametric Femtoseconde
+Femtosecond fiber laser
+Femtosecond fiber laser
+Femtoseconde fiber laser ORIGAMI 10
+Femtoseconde Yb:KGW laser ORIGAMI 10
+Amplitude Systeme femtoseconde laser
+Amplitude Systeme femtoseconde laser
+DPSS femtosecond cavity dumping oscillator
+DPSS femtosecond cavity dumpers oscillator
+Femto HighQ
+Femto HighQ
+FEMTO LEXEL810
+FEMTO LEXEL810
+Spectra Physics TSUNAMI picoseond green
+Spectra Physics TSUNAMI picoseond green
+Spectra Physics HURRICANE 1mJ 100fs 1kHz
+Spectra Physics HURRICANE 1mJ 100fs 1kHz
+Pulse compressor and stretcher femtosecond
+Pulse compressor and stretcher femtosecond
+Nd:YAG DPSS 50W laser Northrop grumman
+Nd:YAG DPSS 60W laser Northrop grumman
+JENLAS 3.2 Thin Disk laser 3W
+JENLAS D2.3 Thin Disk laser 3W
+Clark MXR160 q-switch Nd:vanadate 1KHz
+Clark ORC1000 q-switch Nd:YAG 1KHz laser
+EMPOWER 45 DPSS laser haute énergie
+EMPOWER 45 DPSS laser haute énergie
+Laser spectron
+Laser SPECTRON S1852 q-switch YAG triplé
+087 Flashlamp pumped Nd:YAG SLAB Laser
+087 Flashlamp pumped Nd:YAG SLAB Laser
+Amplificateur femto SPITFIRE
+Amplificateur femto SPITFIRE
+Quanta Ray GCR190 Q-switch YAG laser
+Quanta Ray GCR190 Q-switch YAG laser
+POWERGATOR DPSS laser triple en fréquence
+POWERGATOR DPSS laser triple en fréquence
+083 Construction d'un laser à rubis mode locké
+083 Construction d'un laser à rubis en mode bloqué
+POWERLINE E20
+POWERLINE E20
+COHERENT High Light FL1000 1kW fiber laser
+COHERENT High Light FL1000 1kW fiber laser
+Laser UV accordable entre 280 et 330nm
+Laser UV accordable entre 263 et 330nm
+DPSS laser q-switch JASPER 10k UV
+DPSS laser q-switch JASPER 10k UV
+
+Oscillateur laser YAG Quanta Ray
+Oscillateur laser YAG Quanta Ray
+Laser YAG osc+ampli QUANTA RAY
+Laser YAG osc+ampli QUANTA RAY
+016 Mon premier DPSS 25W IR
+016 Mon premier DPSS 25W IR
+2W Green DPSS laser VENTEON
+2W Green DPSS laser VENTEON
+Verre au Néodyme du laser SHIVA
+007 Verre au Néodyme du laser SHIVA
+Barreaux de rubis et verres au néodyme lasers
+Barreaux de rubis et verres au néodyme lasers
+Laser verre au Néodyme q-switch
+072 Laser verre au Néodyme q-switch
+Laser YAG continu 100W
+Laser YAG continu 100W
+Laser Nd:YAG pulsé HAAS de 55J
+Laser Nd:YAG pulsé HAAS de 55J
+Laser YAG déclenché pompé par flash
+Petit laser YAG déclenché pompé par flash
+Lightwave M110 q-switch YLF laser
+Lightwave M110 q-switch YLF laser
+Spectra Physics YLF cw 515 nm
+Spectra Physics YLF cw 515 nm
+Laser YAG déclenché CONTINUUM de QUANTEL
+Laser YAG déclenché CONTINUUM de QUANTEL
+Nd:YLF frequency doubled laser BMI
+Nd:YLF frequency doubled laser BMI
+DM50-527 DPSS laser
+DM50-527 DPSS laser
+60W RGB laser
+60W RGB laser
+Laser à rubis déclenché
+Laser à rubis déclenché
+V-Xtrem DPSS q-switch laser
+V-Xtrem DPSS q-switch laser
+Laser YAG:Holmium medical fibre
+Laser YAG:Holmium medical fibre
+SAGITTA 60 DPSS Q-switch YAG laser
+SAGITTA 60 DPSS Q-switch YAG laser
+Laser YAG 100W cw Dornier
+Laser YAG 100W cw MBB
+Préparation laser SPECTRON SL402
+Préparation laser SPECTRON SL402
+QUANTRONIX 116 q-switch YAG laser
+QUANTRONIX 114 q-switch YAG laser
+Laser pulsé YAG:Holmium
+Laser pulsé YAG:Holmium
+650W YAG cw laser Haas
+650W YAG cw laser Haas
+Laser à rubis déclenché par miroir rotatif
+Laser à rubis déclenché par miroir rotatif
+YAG déclenché par YAG:Cr passif
+YAG déclenché par YAG:Cr passif
+Yb:YAG laser continu
+Yb:YAG laser continu
+DPSS q-switch YAG laser SPECTRON
+DPSS q-switch YAG laser SPECTRON SLD2114S
+Oscillateur Parametrique OPO
+Oscillateur Parametrique OPO
+Alcon DPSS YAG doublé 3W
+Alcon DPSS YAG doublé 3W
+Nanolaser DPSS triplé
+Nanolaser DPSS triplé
+Q-switch Nd:YAG Microchip Laser
+Q-switch Nd:YAG Microchip Laser
+2W Green DPSS intra cavité
+2W Green DPSS intra cavité
+017 Mon premier DPSS 532 nm
+017 Mon premier DPSS 532 nm
+Doublage de fréquence intra cavité KTP
+Doublage de fréquence intra cavité KTP
+DPSS laser VANGUARD
+DPSS laser VANGUARD
+COHERENT Vitesse femtosecond laser
+COHERENT Vitesse femtosecond laser
+Picosecond Yb:YAG laser DPSS
+Picosecond Yb:YAG laser DPSS
+DPSS LIGHTWAVE 10W IR
+DPSS LIGHTWAVE 10W IR
+Laser 20W à fibre SLD INC model FL20
+Laser 20W à fibre SLD INC model FL20
+Laser à fibre 10W JDSU
+Laser à fibre 10W JDSU
+DPSS LIGHTWAVE 142C
+DPSS LIGHTWAVE 142C
+DPSS LIGHTWAVE M153 Laser UV
+DPSS LIGHTWAVE M153 Laser UV
+laser DPSS triplé en frequence 355nm
+laser DPSS triplé en frequence 355nm
+DPSS EVOLUTION UV
+DPSS EVOLUTION 15
+Frequency doubled laser diode COHERENT D3 !
+Frequency doubled laser diode COHERENT D3 !
+Laser DPSS 473nm
+Laser DPSS 473nm
+Laser DPSS Yb:YAG doublé intracavité
+Laser DPSS Yb:YAG doublé intracavité
+Laser pulsé Erbium YAG à 2.9 microns
+Laser pulsé Erbium YAG à 2.9 microns
+054 DPSS YAG 1.6 x 22 mm tests
+054 DPSS YAG 1.6 x 22 mm tests
+Laser YAG LL 100
+Laser YAG Néodyme LL 102-5
+Laser YAG russe
+Laser YAG russe
+Laser DPSS q-switch Nd:YLF SPECTRA PHYSICS 7960
+Laser DPSS q-switch Nd:YLF SPECTRA PHYSICS 7960
+Q-switch YLF DPSS laser HIPPO 27W
+Q-switch YLF DPSS laser HIPPO 27W
+Laser YAG:Holmium VERSAPULSE
+Laser YAG:Holmium VERSAPULSE
+Laser YAG déclenché YAG TWO
+Laser YAG déclenché YAG TWO
+YAG M1 laser
+YAG M1 laser
+YAG M3 laser
+YAG M3 laser
+YAG M4 q-switch
+YAG M4 q-switch
+YAG M6 q-switch
+YAG M6 q-switch
+YAG M5 Q-switch
+YAG M5 Q-switch
+LASER YAG continu de 80W
+LASER YAG continu de 80W
+Q-switch DPSS VECTOR 1064LP
+Q-switch DPSS VECTOR 1064LP
+Laser à fibre d'Ytterbium doublé dans un PPLN
+Laser à fibre d'Ytterbium doublé dans un PPLN
+Laser continu accordable au TiO2:Al2O3
+Laser continu accordable au TiO2:Al2O3
+DPSS Q-switch triggereg UV laser Maldi 200
+DPSS Q-switch triggered UV laser Maldi 200
+10W DPSS cw laser MILENIA
+10W DPSS cw laser MILLENNIA
+COHERENT 899 Titane Saphire Ring laser
+COHERENT 899 Titane Saphire Ring laser
+Mon premier laser à fibre
+Mon premier laser à fibre
+Picosecond Ruby TDL
+086 Picosecond Ruby TDL
+Oscillateur parametrique optique OPO
+Oscillateur parametrique optique OPO
+DPSS 100W YAG laser ROFIN
+DPSS 100W YAG laser ROFIN
+Laser rubis Russe 1974
+Laser rubis Russe 1974
+Erbiun YAG laser pumped by flashlamp
+Erbium YSGG laser pumped by flashlamp
+Compact 2W Green DPSS LASER
+Compact 2W Green DPSS LASER
+Titanium 200 q-switch YAG laser
+092 Titanium 200 q-switch YAG laser
+
+Quanta Ray Q-switch YAG laser + harmonic
+Quanta Ray Q-switch YAG laser + harmonic
+088 Diode pumped Nd:YAG SLAB laser
+088 Diode pumped Nd:YAG SLAB laser
+JDSU Erbium fiber Amplifier
+JDSU Erbium fiber Amplifier
+Laser YAG DPSS Northrop Grumman 3x50
+Laser YAG DPSS Northrop Grumman 3x50
+
+DiNYpQ laser DPSS Q-switch
+DiNYpQ laser DPSS Q-switch
+Lumonics HY-1200 Hyper YAG laser
+Lumonics HY-1200 Hyper YAG laser
+
+Cavité YAG pulsé LASAG
+Cavité YAG pulsé LASAG
+Rofin Sinar 500W DPSS head
+Rofin Sinar 550W DPSS head
+
+laser MPO
+laser MPO
+Laser MPA
+Laser MPA
+Laser soudure pulse 50J MI
+Laser YAG de soudure pulsé 50J MIYACHI
+
+094 Rubymin 3.5x45
+094 Rubymin 3.5x45
+098 Laser ruby 3.5x45
+095 Laser ruby 3.5x45
+
+------------------------------------------------
+gas:
+005 laser NITROMITE developer en 1978 par Arnold
+034 NITROMITE Lasers patentés par Arnold
+034 NITROMITE Lasers patentés par Arnold
+Laser TEA N2 1MW PRA LN1000
+042 Laser TEA N2 2MW PRA LN1000
+Mon premier laser TEACO2 construit en 1975
+010 Mon premier laser TEACO2 construit en 1975
+Lasers à azote MOPALITE
+011 Lasers à azote MOPALITE
+051 Laser N2 4 étages
+067 Laser N2 4 étages
+023 2kHz excimer laser dévelopé en 1978
+023 2kHz excimer laser dévelopé en 1978
+024 Laser TEA N2 osc+ampli limite diffraction
+024 Laser TEA N2 osc+ampli limite diffraction
+Lasers MOPALITE TEA N2 avec Marx
+006 Lasers MOPALITE TEA N2 avec Marx UA1
+020 TEA N2 osc+2 ampli MOPA1000
+020 TEA N2 osc+2 ampli MOPA1000
+100kW Nitrogen Laser LMN
+100kW Nitrogen Laser LMN
+Excimer EMG201 Lamda Physik
+Excimer EMG201 Lamda Physik
+061 laser TE N2 Megawatt pour pompage dye
+061 laser TE N2 Megawatt pour pompage dye
+LSI 150pps 0.2J CO2 laser
+LSI 150pps 0.2J CO2 laser
+
+CO2 TEA grating laser
+CO2 TEA grating laser
+
+50Wcw CO2 laser avec grating
+50Wcw CO2 laser avec grating
+
+CL-55 Waveguide CO2 Laser
+CL-55 Waveguide CO2 Laser
+ALTEX300SI excimer laser 300Hz
+ALTEX300SI excimer laser 300Hz
+
+Tunable CO2 laser oscillator
+Tunable CO2 laser oscillator
+
+Laser TEA N2 50 PICOSECONDS
+009 Laser TEA N2 55 PICOSECONDS
+044 Laser excimer à décharge longitudinal
+044 Laser excimer à décharge longitudinal
+033 Mon premier laser TEA N2 MOPA BaTiO3 CERN
+033 Mon premier laser TEA N2 MOPA BaTiO3 CERN
+Laser excimer ArF largueur de raie 10GHz
+Laser excimer ArF largueur de raie 10GHz
+055 Laser XUV à Argon 46.9nm
+055 Laser XUV à Argon 46.9nm
+029 Laser excimer XeCl 500 kW 100pps
+029 Laser excimer XeCl 500 kW 100pps
+056 Mon premier laser à gaz à pompage optique
+056 Mon premier laser à gaz à pompage optique
+014 TEA N2 coaxial H2O capacitor
+014 TEA N2 coaxial H2O capacitor
+ROFIN 2kW SLAB laser
+ROFIN 2kW SLAB laser
+Lambdaphysik TEA CO2 laser
+Lambdaphysik TEA CO2 laser
+Laser à vapeur de cuivre 40W OXFORD LASERS
+Laser à vapeur de cuivre 40W OXFORD LASERS
+065 Laser TEA N2 75mm BaTiO3 blumlein
+065 Laser TEA N2 75mm BaTiO3 blumlein
+TE N2 laser LSI 337i
+TE N2 laser LSI 337i
+063 Laser CO2TEA de 3J préionisation étincelles
+063 Laser CO2TEA de 3J préionisation étincelles
+Laser UV à guide d'onde excimer POTOMAC
+Laser UV à guide d'onde excimer POTOMAC
+SYNRAD Firestar F100 130W CO2 laser
+SYNRAD Firestar F100 130W CO2 laser
+065 Laser CO TEA pulsé émettant à
+064 Laser CO2 TEA module amplificateur 7J
+021 TEA N2 5cm cavité pour laser CERN 1981
+021 TEA N2 5cm cavité pour laser CERN 1982
+025 KrF excimer laser 100 pulses par seconde
+025 KrF excimer laser 100 pulses par seconde
+021 TEA CO2 laser nouvelle structure BaTiO3
+021 TEA CO2 laser nouvelle structure BaTiO3
+Le plus petit laser N2
+012 Le plus petit laser N2
+027 Mon second TEA N2 picosecond laser developpement
+027 Mon second TEA N2 picosecond laser developpement
+Laser N2 avec ligne Blumlein en TiO2
+013 Laser N2 avec ligne Blumlein en TiO2
+Laser N2 TE avec capacités en BaTiO3
+008 Laser N2 TE avec capacités en BaTiO3
+004 Mon premier laser excimer KrF 200mJ
+004 Mon premier laser excimer KrF 200mJ
+052 Laser azote à décharge longitudinal et pression atmosphérique
+052 Laser azote à décharge longitudinal et pression atmosphérique
+Molectron N2 UV24
+Molectron N2 UV24
+035 Laser TEA N2 500 kW pour le CERN
+035 Laser TEA N2 500 kW pour le CERN
+030 Developpement d'un laser TE N2 en 1980
+030 Developpement d'un laser TE N2 en 1980
+018 Mon premier laser CO2 continu
+018 Mon premier laser CO2 continu
+015 2MW TEA N2 laser avec condensateur à eau
+015 2MW TEA N2 laser avec condensateur à eau
+019 Mon second laser CO2 cw compact
+019 Mon second laser CO2 cw compact
+020 3cm TEA N2 laser kapton Blumlein
+020 3cm TEA N2 laser kapton Blumlein
+Synrad 10W CO2 laser
+Synrad 10W CO2 laser
+022 LE N2 multiélectrodes 350mm
+022 LE N2 multiélectrodes 350mm
+051 Laser CO2 TEA 2J 100 pulses par seconde
+051 Laser CO2 TEA 2J 100 pulses par seconde
+Laser ion Ar-Kr 3W lumière blanche
+Laser ion Ar-Kr 3W lumière blanche
+SYNRAD CO2 100W laser 57-1
+SYNRAD CO2 100W laser 57-1
+NOVATEX excimer ArF 6mJ 1kHz laser
+INDYSTAR excimer ArF 12mJ 1kHz laser
+Prototype laser CO2 TEA avec Blumlein ceramique
+053 Prototype laser CO2 TEA avec Blumlein ceramique
+031 Laser CO2TEA 1gigawatt construit en 1982
+031 Laser CO2TEA 1gigawatt construit en 1982
+032 Développement laser N2 TEA 2kHz
+032 Développement laser N2 TEA 2kHz
+Laser à vapeur de cuivre
+Laser à vapeur de cuivre
+Préparation laser argon MEDITECH
+Préparation laser argon MEDITECH
+Laser Argon Spectra Physics 168
+Laser Argon Spectra Physics 168
+Lasers à ion Ar, Kr
+Lasers à ion Argon INNOVA70
+Laser Argon 6W INNOVA300
+Laser Argon 6W INNOVA300
+Laser à Argon ALC68 5W
+Laser à Argon ALC68 5W
+036 5mJ XeCl excimer EXCIPULSE Laser
+036 5mJ XeCl excimer EXCIPULSE Laser
+037 1mJ XeCl excimer laser EXCIPULSE
+037 1mJ XeCl excimer laser EXCIPULSE
+038 Mon premier laser TEA à AIR
+038 Mon premier laser TEA à AIR
+039 Laser TEA couplage capacitif sans électrodes
+039 Laser TEA couplage capacitif sans électrodes
+048 Laser LE N2 meilleure topologie
+048 Laser LE N2 meilleure topologie
+Laser CO2 double
+Laser CO2 double
+040 Modification TEN2 en TEA CO2
+040 Modification TEN2 en TEA CO2
+Lasers à azote MOLITE
+028 Lasers à azote MOLITE
+laser excimer ArF 500 Hz COHERENT
+laser excimer ArF 500 Hz COHERENT
+Excimer ArF laser 250mJ 100pps
+Excimer ArF laser 250mJ 100pps
+SLAB 250W CO2 laser COHERENT DiamondE250
+SLAB 250W CO2 laser COHERENT Diamond K250
+HeCd Ultraviolet laser
+HeCd Ultraviolet laser
+Mon premier laser LE CO2 à guide d'onde
+043 Mon premier laser LE CO2 à guide d'onde
+Laser TE N2 Spectra Physics
+Laser TE N2 Spectra Physics
+045 LE N2 laser avec ligne Blumlein en BaTiO3
+045 LE N2 laser avec ligne Blumlein en BaTiO3
+laser CO2 cw LUMENIS 50W
+laser CO2 cw LUMENIS 50W
+046 Mon premier laser TEA CO2 à guide d'onde
+046 Mon premier laser TEA CO2 à guide d'onde
+068 Laser à azote à décharge longitudinal de 100W
+068 Laser à azote à décharge longitudinal de 100W
+047 Mon premier laser TEA CO2 à guide d'onde
+047 Mon second laser TEA CO2 à guide d'onde
+Tube laser CO2 cw PARALLAX PLX100
+Tube laser CO2 cw PARALLAX PLX60
+Laser CO2 à guide d'onde HUGS
+Laser CO2 à guide d'onde HUGHES
+049 Laser excimer XeCl MOPA limite de diffraction
+049 Laser excimer XeCl MOPA limite de diffraction
+Laser TEA excimer XeF de 2MW
+050 Laser TEA excimer XeF de 2MW
+NOVALINE compresseur de pulse pour excimer
+NOVALINE compresseur de pulse pour excimer
+071 He-N2 10cm laser
+071 He-N2 10cm laser
+160 J TEA CO2 laser avec préionisation corona
+160 J TEA CO2 laser avec préionisation corona
+HeNe laser jaune et rouge
+HeNe laser jaune et rouge
+Laser HeNe Brewster
+Laser HeNe Brewster
+SYNRAD 48-5 Waveguide CO2 Laser
+SYNRAD 48-5 Waveguide CO2 Laser
+089 CO2 TEA laser with radial fan
+089 CO2 TEA laser with radial fan
+091 Laser TEAN2 électrodes silicium
+LE N2 laser LSI
+LE N2 laser LSI
+Excimer ArF 100Hz SPIRULE
+Excimer KrF 300Hz SPIRULE 18mJ
+
+----------------------------------------------
+
+dye:
+Laser à colorant 2 J CANDELA
+Dye pompé par laser à vapeur de cuivre 7kHz
+Dye pompé par laser à vapeur de cuivre 7kHz
+Réalisation d'un tube flash coaxial ablatif pour un laser Dye
+057Réalisation d'un tube flash coaxial ablatif pour un laser Dye
+Dye laser FL3002 Lambdaphysik
+Dye laser FL3002 Lambdaphysik
+Spectra Physics DPL-3 Dye laser
+Spectra Physics DPL-3 Dye laser
+
+DYE MOPA LN107
+DYE MOPA LN107
+
+Laser à colorant accordable pompé à 532 nm
+Laser à colorant accordable pompé à 532 nm
+090 Liquide laser pumped by DPSS doubled laser
+090 CW liquide laser pumped by DPSS doubled laser
+
+SPECTRA PHYSICS 3500 picosecond DYE Laser
+SPECTRA PHYSICS Model 3500 femto et picosecond DYE Laser
+
+mode locked dye laser pumped with N2 laser
+075 Mode locked dye laser pumped with N2 laser
+076 laser à colorant à rétroaction répartie
+076 laser à colorant à rétroaction répartie
+077 Laser à colorant pompé par onde progressive
+077 Laser à colorant pompé par onde progressive
+
+Lasers à colorant pompé par laser N2
+Lasers à colorant pompé par laser N2
+079 Laser à colorant Bethune cell
+079 Laser à colorant Bethune cell
+070 Flashlamp pumped dye oscillator
+070 Flashlamp pumped dye oscillator
+080 NEW 4 pi Super radiant Dye Laser
+080 TUNABLE DYE LASER PUMPED BY N2 LASER
+Q-switch Kiton Red dye laser with Malachite Green
+081 Q-switch Kiton Red dye laser with Malachite Green
+082 Fluoresceine dye laser oscillator
+082 Fluoresceine dye laser oscillator
+026 Laser à colorant pompé par tube flash ablatif
+026 Laser à colorant pompé par tube flash ablatif
+Laser à colorant pompé flash accordable
+Laser à colorant pompé flash accordable
+041 Fabrication d'un résonateur DYE
+041 Fabrication d'un résonateur DYE
+Laser à colorant pompé par laser CO2TEA
+073 Laser à colorant pompé par laser CO2TEA
+Laser à colorant pompé par laser à argon Mod:380
+Laser à colorant pompé par laser à argon Mod:380
+Laser à colorant pompé par laser YAG q-switch
+Laser à colorant pompé par laser YAG q-switch
+Laser colorant pompé par tube fash CANDELA 0.5J
+Laser colorant pompé par tube fash CANDELA SLL100
+Laser Scop à colorant 630nm
+LaserScope à colorant 630nm
+Cellules pour colorant pomper par laser excimer
+Cellules pour colorant pomper par laser excimer
+laser à colorant pompant un laser à colorant
+laser à colorant pompant un laser à colorant
+058 Laser colorant pompé par tube flash à 10pps.
+058 Laser colorant pompé par tube flash à 10pps.
+Colorant pompé longitudinalement
+Colorant pompé longitudinalement
+059 Laser à colorant pompé flash à blocage de modes
+059 Laser à colorant pompé flash à blocage de modes
+Spectra Physics Dye 375 cw
+Spectra Physics Dye 375 cw
+060 Dye pompé flash réflecteur elliptique
+060 Dye pompé flash réflecteur elliptique
+Laser dye Spectra Physics à blockage de modes
+Laser dye Spectra Physics à blockage de modes
+062 Laser Dye 150pps haute energie
+062 Laser Dye 150pps haute energie
+Cellule Lambda Physik 2kHz pour laser à colorant
+Cellule Lambda Physik 2kHz pour laser à colorant
+Laser à colorant de COHERENT
+Laser à colorant COHERENT CR590
+Laser à colorant continu avec cuvette
+069 Laser à colorant continu avec cuvette
+laser à colorant 5mJ pompé par laser TEA N2
+laser à colorant 5mJ pompé par laser TEA N2
+Laser dye pompé sur 2 faces
+Laser dye pompé sur 2 faces
+078 Laser POPOP à vapeur de colorant
+PRA Dye laser LN102
+PRA Dye laser LN102
+
+----------------------------------------
+
+LD:
+Teste 3 diodes laser pompe Cr;Nd YAG
+
+LASERLINE 330W laser diode
+LASERLINE 330W laser diode
+
+COHERENT CUBE 660nm 100mW
+COHERENT CUBE laser monomode 660nm 100mW
+Diode DILAS 130W @ 976 nm
+Diode DILAS 130W @ 976 nm
+550W laser diode JOLD 915nm
+550W laser diode JOLD 915nm
+
+Laser à diode de 115W OPTO POWER
+Laser à diode de 115W OPTO POWER
+Test diode JOLD 250W cw
+Test diode JOLD 256W cw
+COHERENT FAP800-40C laser diode
+COHERENT FAP800-40C laser diode
+
+Diode 50W JOLD 50-CPXF-2P
+Diode 50W JOLD 50-CPXF-2P
+
+40W 880nm diode Spectra Physics
+40W 880nm diode Spectra Physics
+
+Pulseur 125A pour diode laser
+Pulseur 125A pour diode laser
+Diode NICHIA 455nm 4.5W cw 9Wqcw
+Diode NICHIA 455nm 4.5W cw 9Wqcw
+
+200A laser diode driver ANALOGUE MODULE
+200A laser diode driver ANALOGUE MODULE
+laser à diode 40mW @ 405nm
+laser à diode 40mW @ 405nm
+Laser diode LIMO DILAS
+Laser diode LIMO DILAS
+Tests diode laser SPECTRA PHYSICS
+Tests diode laser SPECTRA PHYSICS
+Diode laser JOLD 40W
+Diode laser JOLD 40W
+Diode laser picoseconde
+Diode laser picoseconde
+Diode fibrée JOLD 30W
+Diode fibrée JOLD 30W
+Diode fibrée 20W
+Diode fibrée 20W
+laser diode DONUT 100W
+laser diode DONUT 100W
+Diode laser 3W TEM00 à 1032 nm
+Diode laser 3W TEM00 à 1064 nm
+Diode GaAs 976nm doublée dans PPLN à 488nm
+Diode GaAs 976nm doublée dans PPLN à 488nm
+Diode 12 emetteurs QCW pulsée
+Diode 12 emetteurs QCW pulsée
+105W @ 975nm Diode laser
+105W @ 975nm Diode laser
+074 Fabrication d'une diode laser QCW de 150W
+074 Fabrication d'une diode laser QCW de 150W
+Diode 3W 808nm SDL2482
+Diode 3W 808nm SDL2482
+Diode laser GaAs heterojonction
+Diode laser GaAs heterojonction
+MOPA laser Diode SDL 5762
+MOPA laser Diode SDL 5762
+KIGRE Laser Diode Module C136262
+KIGRE Laser Diode Module C136262
+
+Pulse Laser Module PLD905
+Pulse Laser Module PLD905
+QCW laser diode pulseur ANALOG MODULES 779A
+QCW laser diode pulseur ANALOG MODULES 779A
+
+---------------------------------
+
+
+

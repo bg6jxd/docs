@@ -6,7 +6,7 @@
 > 精彩的量子机器学习、算法、软件、库等资料。
 
 ---
-## [《brain》](brain.md) 
+## [《laser》](laser.md) 
 
 ---
 ## [《light》](light.md) 

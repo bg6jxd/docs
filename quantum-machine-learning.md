@@ -280,6 +280,12 @@ space in highly advanced physical research . <br>
 【用于原子系统的深度神经网络】
 - [Schnetpack](https://github.com/atomistic-machine-learning/schnetpack) - `pip install schnetpack`
 
+【Google Tensor Network】
+- [Github](https://github.com/google/TensorNetwork)
+
+【Google在工具方面如：CircQ 】
+- [Google Works](https://research.google/teams/applied-science/quantum/)
+
 ---
 
 ## 量子机器学习与深度学习
@@ -367,6 +373,7 @@ space in highly advanced physical research . <br>
 
 【博客、论坛、Paper等】  <br>  
 
+- [FOSDEM 2020量子会谈](https://fosdem.org/2020/schedule/track/quantum_computing/)
 - [FOSDEM 2019量子会谈](https://fosdem.org/2019/schedule/track/quantum_computing/)
 - [Max Planck](https://qumoptly.github.io/blog/2019/07/18/%E5%85%B3%E4%BA%8E%E9%A9%AC%E5%85%8B%E6%96%AF%E6%99%AE%E6%9C%97%E5%85%8B%E9%87%8F%E5%AD%90%E5%85%89%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80/) -关于马克斯普朗克研究所收集的部分资料
 - [Gla.ac](https://qumoptly.github.io/blog/2019/07/18/%E5%85%B3%E4%BA%8E%E6%A0%BC%E6%8B%89%E6%96%AF%E5%93%A5/) - 关于Glasgow上收集的部分资料
@@ -375,7 +382,8 @@ space in highly advanced physical research . <br>
 - [量子科技](https://medium.com/quantum-tech) - 追踪量子技术的发展，订阅月度邮件列表：https://eepurl.com/c10FJz 
 - [量子客](https://www.qtumist.com/links)
 - [Facebook](https://www.facebook.com/quantummachinelearning) - 量子机器学习与量子人工智能
-- [Linkdin](https://www.linkedin.com/groups/8592758)<br>  
+- [Linkdin](https://www.linkedin.com/groups/8592758)
+- [Yuezhen Niu] (https://scholar.google.com/citations?user=0wJPxfkAAAAJ&hl=en) <br>  
 
 [![PPT 1 (翻墙)](https://image.slidesharecdn.com/quantummachinelearningbasics-170716201841/95/quantum-machine-learning-basics-1-638.jpg?cb=1500236565)](https://docs.google.com/presentation/d/e/2PACX-1vReeRxH80RuuU1cAwrsJ1ybeVQyxG35CqvRSGRGX2PhkYybAup7ScLz6G-AYH5DF-J7EhEJzMoVceCL/pub?start=false&loop=false&delayms=3000&slide=id.g3bd373e21f_0_0) <br> 
 [![PPT 2 (翻墙)](https://image.slidesharecdn.com/quantummachinelearningbasics2fromscratch-171107121417/95/quantum-machine-learningbasics2fromscratch-1-638.jpg?cb=1510057257)](https://docs.google.com/presentation/d/1TBmkOkfeIifT73p2ENtnU75JgzMXqj9sOPws378-DPc/present)
