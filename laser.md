@@ -543,8 +543,7 @@ SESAM的整体工作点（与饱和度有关），脉冲整形强度等。<br>
 例如，可以使用Runge–Kutta方法来完成。<br> 
 对于简单的情况，很容易通过分析计算给定泵浦和信号强度的稳态区域。例如，上面的简化方程组得出以下结果：<br> 
 <img src="./sources/laser/erbium_n2.jpg" width="30%"><br> 
-... 待续 2020.06 OneNote部分未完成： <br>
-<img src="./sources/laser/onenote.jpg" width="75%"><br> 
+... 待续 2020.06 <br>
 
 <br> 
 
@@ -569,7 +568,43 @@ SESAM的整体工作点（与饱和度有关），脉冲整形强度等。<br>
 ---
 ### SPIE光纤技术现场指南
 
-- Field Guide to Optical Fiber Technology：<a href="./sources/laser/Field_Guide_to_Optical_Fiber_Technology.pdf" target="_blank">PDF</a><br> 
+- Field Guide to Optical Fiber Technology：<a href="./sources/pdf/Field_Guide_to_Optical_Fiber_Technology.pdf" target="_blank">PDF</a><br> 
+
+---
+## 相关资源
+---
+### SPIE简介
+SPIE电子书主要包括以下三种类型<br>
+——SPIE Press Monographs (PM) 专著：
+包括权威参考书、教材和手册共72本。<br>
+——SPIE Tutorial Texts 辅导教程：
+包括杰出的辅导教程共57本，覆盖光学科学及技术领域内的基础和新兴主题。<br>
+——SPIE Field Guides 实践指南：
+以简明的形式，为学生、实践工程师和科学家提供实践指南共17本，包括重要的定义、公式、插图、应用实例、设计要素、方法和技巧等。<br>
+- Astronomy and Astronomical Optics (AAO)（天文学和天文光学，39册<br>
+- Biomedical Optics and Medical Imaging (BOI)（生物医学光学及医学成像，29册）<br>
+- Communication and Information Technologies (CIT)（通讯和信息技术，24册）<br>
+- Defense and Industrial Sensing (DIS)（国防和工业传感，56册）<br>
+- Electronic Imaging and Processing (EIP)（电子成像处理，27册）<br>
+- Micro- and Nano- Technologies (MNT)（微纳米技术，29册）<br>
+- Optics and Electro-Optics (OEO)（光学和电光学，83册）<br>
+[Google搜索](https://scholar.chongbuluo.com/)<br>
+
+### SPIE Field Guides系列：
+
+- 大气光学：<a href="./sources/pdf/Field_Guide_to_Atmospheric_Optics.pdf" target="_blank">PDF</a><br> 
+- 照明：<a href="./sources/pdf/Field_Guide_to_Illumination.pdf" target="_blank">PDF</a><br> 
+- 红外系统：<a href="./sources/pdf/Field_Guide_to_Infrared_Systems.pdf" target="_blank">PDF</a><br> 
+- 显微技术：<a href="./sources/pdf/Field_Guide_to_Microscopy.pdf" target="_blank">PDF</a><br> 
+- 光学加工：<a href="./sources/pdf/Field_Guide_to_Optical_Fabrication.pdf" target="_blank">PDF</a><br> 
+- 光纤技术：<a href="./sources/pdf/Field_Guide_to_Optical_Fiber_Technology.pdf" target="_blank">PDF</a><br> 
+- 偏振：<a href="./sources/pdf/Field_Guide_to_Polarization.pdf" target="_blank">PDF</a><br> 
+- 光学薄膜：<a href="./sources/pdf/Field_Guide_to_Thin_Films.pdf" target="_blank">PDF</a><br> 
+### 国外物理名著系列：
+- 飞秒激光脉冲_原理及实验：<a href="./sources/pdf/飞秒激光脉冲_原理及实验.pdf" target="_blank">PDF</a><br> 
+- 光学与激光_光纤和光波导：<a href="./sources/pdf/光学与激光_光纤和光波导.pdf" target="_blank">PDF</a><br> 
+
+...
 
 ---
 
