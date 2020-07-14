@@ -562,8 +562,7 @@ SESAM的整体工作点（与饱和度有关），脉冲整形强度等。<br>
 ---
 ### 光纤放大器和激光器的建模
 [Modeling of Fiber Amplifiers and Lasers](https://www.rp-photonics.com/tutorial_modeling.html)<br>
-
-- [RP光纤激光器放大器和仿真和设计](https://www.rp-photonics.com/fiberpower_case_studies.html)<br> 
+[RP光纤激光器放大器和仿真和设计](https://www.rp-photonics.com/fiberpower_case_studies.html)<br> 
 
 ---
 ### SPIE光纤技术现场指南
