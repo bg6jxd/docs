@@ -573,20 +573,20 @@ SESAM的整体工作点（与饱和度有关），脉冲整形强度等。<br>
 ## 相关资源
 ---
 ### SPIE简介
-SPIE电子书主要包括以下三种类型<br>
+[SPIE电子书](https://spie.org/publications/books/) 主要包括以下三种类型<br>
 ——SPIE Press Monographs (PM) 专著：
-包括权威参考书、教材和手册共72本。<br>
+包括权威参考书、教材和手册。<br>
 ——SPIE Tutorial Texts 辅导教程：
-包括杰出的辅导教程共57本，覆盖光学科学及技术领域内的基础和新兴主题。<br>
+包括杰出的辅导教程，覆盖光学科学及技术领域内的基础和新兴主题。<br>
 ——SPIE Field Guides 实践指南：
-以简明的形式，为学生、实践工程师和科学家提供实践指南共17本，包括重要的定义、公式、插图、应用实例、设计要素、方法和技巧等。<br>
-- Astronomy and Astronomical Optics (AAO)（天文学和天文光学，39册<br>
-- Biomedical Optics and Medical Imaging (BOI)（生物医学光学及医学成像，29册）<br>
-- Communication and Information Technologies (CIT)（通讯和信息技术，24册）<br>
-- Defense and Industrial Sensing (DIS)（国防和工业传感，56册）<br>
-- Electronic Imaging and Processing (EIP)（电子成像处理，27册）<br>
-- Micro- and Nano- Technologies (MNT)（微纳米技术，29册）<br>
-- Optics and Electro-Optics (OEO)（光学和电光学，83册）<br>
+以简明的形式，为学生、实践工程师和科学家提供实践指南，包括重要的定义、公式、插图、应用实例、设计要素、方法和技巧等。<br>
+- Astronomy and Astronomical Optics (AAO)（天文学和天文光学）<br>
+- Biomedical Optics and Medical Imaging (BOI)（生物医学光学及医学成像）<br>
+- Communication and Information Technologies (CIT)（通讯和信息技术）<br>
+- Defense and Industrial Sensing (DIS)（国防和工业传感）<br>
+- Electronic Imaging and Processing (EIP)（电子成像处理）<br>
+- Micro- and Nano- Technologies (MNT)（微纳米技术）<br>
+- Optics and Electro-Optics (OEO)（光学和电光学）<br>
 [Google搜索](https://scholar.chongbuluo.com/)<br>
 
 ### SPIE Field Guides系列：

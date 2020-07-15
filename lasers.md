@@ -790,6 +790,7 @@ TDL薄盘激光器（Prof. A.Giesen（Appl.Physics B58 1994 p.365））<br>
 <img src="./sources/laser/list/solid/scheibenlaser6.jpg" width="60%"><br> 
 
 [Ursula Keller 超快薄盘激光器（youtube）](https://youtu.be/ZWd4CQ3X8qQ)<br>
+[超快薄盘多程激光放大器方案](https://doi.org/10.1117/1.OE.58.9.096102)<br>
 <img src="./sources/laser/list/solid/diagrYbYAB.jpg" width="60%"><br> 
 通过光纤激光二极管在941nm或968nm处进行泵浦，并在1030nm处进行发射。
 在968nm而非940nm的跃迁上进行泵浦，这将薄盘的热降低2倍。<br> 
