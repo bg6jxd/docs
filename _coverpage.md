@@ -6,12 +6,11 @@
 
 ## [《Laser》](laser.md)
 
-
 ### [V1.0 &nbsp;|&nbsp; 2019.07](https://qumoptly.github.io/)  <br>
 
-### ...
+### ... 
 
-### 2020
+#### 2020 
 
 
 ---
