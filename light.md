@@ -2,7 +2,7 @@
 > 资料整理、学习记录，OneNote备份。
 ---
 
-## OneNoted
+## OneNote
 
 ---
 ### [SPIE](./laser?id=相关资源)
@@ -37,5 +37,34 @@
 - 学习整理：<a href="./sources/light/learn.pdf" target="_blank">PDF</a><br> 
 
 ---
+参考：<br>
+> [Thorlab](https://www.thorlabschina.cn/navigation.cfm)、
+> [Photonics](https://www.rp-photonics.com/categories.html)<br>
 
-[Photonics](https://www.rp-photonics.com/categories.html)<br>
+---
+
+### 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
