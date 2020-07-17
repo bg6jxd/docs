@@ -98,8 +98,9 @@
 </details>
 <br>
 
-
-
+[**Edmund Optics技术资源库**](https://qumoptly.github.io/knowledge-center/)<br>
+【edmundoptics.cn/knowledge-center/】
+---
 
 
 
