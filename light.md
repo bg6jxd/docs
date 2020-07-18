@@ -14,6 +14,17 @@
 - reZonator介绍：<a href="./sources/light/reZonator.pdf" target="_blank">PDF</a><br> 
 - 锁模固体激光：<a href="./sources/light/modelocking.pdf" target="_blank">PDF</a><br> 
 - 学习整理：<a href="./sources/light/learn.pdf" target="_blank">PDF</a><br> 
+
+```pdf
+https://qumoptly.github.io/docs/sources/light/107410T.pdf
+```
+
+---
+
+```pdf
+https://qumoptly.github.io/docs/sources/light/learn.pdf
+```
+
 ---
 <details>
 <summary>相关资源：</summary>
