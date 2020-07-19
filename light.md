@@ -39,7 +39,7 @@ https://qumoptly.github.io/docs/sources/light/learn.pdf
 <details>
 <summary>爱特蒙特：</summary>
 
-- EO：[视频资源](https://www.edmundoptics.cn/resource-page/video/) 、
+- EO：[视频资源](https://www.edmundoptics.cn/resource-page/video/) 、<br>
 优酷：http://i.youku.com/i/UMjcxMDM2NTQ0NA== <br>
 - Webinars：
 > [分束器指南](https://www.edmundoptics.cn/knowledge-center/webinars/the-ultimate-guide-to-beamsplitters-register/)<br>
