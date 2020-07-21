@@ -13,11 +13,6 @@
 - 锁模固体激光：<a href="./sources/light/modelocking.pdf" target="_blank">PDF</a><br> 
 - 学习整理：<a href="./sources/light/learn.pdf" target="_blank">PDF</a><br> 
 
-```pdf
-https://qumoptly.github.io/docs/sources/light/107410T.pdf
-```
-
----
 
 ```pdf
 https://qumoptly.github.io/docs/sources/light/learn.pdf
@@ -179,6 +174,7 @@ https://qumoptly.github.io/docs/sources/light/learn.pdf
 - [Radiant](https://www.radiantvisionsystems.com/zh-hans/blog)<br>
 
 虚拟现实（VR）、增强现实（AR）和混合现实（MR）设备高度依赖近眼显示器（NED）的质量。<br>
+
 <details>
 <summary>包括：</summary>
 
@@ -192,14 +188,31 @@ https://qumoptly.github.io/docs/sources/light/learn.pdf
 显示器类型（LCD、LCOS、OLED或DLP）<br>
 投影几何（透射式、反射式或半透反射式设计）<br>
 光学（不透明、鸟池式、自由空间、光导、波导、曲面镜或定制光学元件）<br>
-人眼视场（FOV）:平均而言，双眼水平FOV为200°，双眼重叠区域120°，垂直视场约为130°。<br>
-瞳孔间距离（IPD）：50-75mm ，眼部缓解距离约12mm<br>
-瞳孔成型和非瞳孔成型架构。
+> 棱镜PBS方案：Google Glass<br>
+> 曲面反射镜（虫眼）方案：Meta2<br>
+> Birdbath方案：联想Mirage AR头显、ODG R9<br>
+> 光波导（Optical Waveguide）方案：HoloLens 1、Magic Leap One、Lumus、Vuzix、Waveoptics、Digilens <br>
+
+- 人眼<br>
+视场（FOV）:平均而言，双眼水平FOV为200°，双眼重叠区域120°，垂直视场约为130°。<br>
+瞳孔间距离（IPD）：50-75mm ，眼部缓解距离约12mm。<br>
+瞳孔成型和非瞳孔成型架构。<br>
+> FoV：视场<br>
+> See-through：透视<br>
+> Resolution：分辨率<br>
+> Contrast Ratio：对比度<br>
+> Luminance：亮度<br>
+> Response time：响应时间<br>
+> Reflectivity：反射率<br>
+> Transparency ：透明度<br>
 
 </details><br>
 
-#### 波导
+<img src="./sources/light/pic/mr.jpg" width="60%"><br>
 
+#### 光波导
+
+分为两类：阵列光波导（反射波导），另一类是衍射光波导（全息光波导）。浮雕光栅（SRG）全息波导、布拉格光栅（SBG）全息波导。<br>
 - 全息波导<br>
 <img src="./sources/light/pic/holo.jpg" width="80%"><br>
 - 衍射波导<br>
@@ -219,20 +232,38 @@ https://qumoptly.github.io/docs/sources/light/learn.pdf
 摄像头捕获现实图像，然后将这些相机视图与计算机生成的图像结合起来。<br>
 <img src="./sources/light/pic/display.jpg" width="80%"><br>
 
-- 液晶显示器（LCD）<br>
+- 液晶显示（LCD）<br>
 - 有机发光二极管（OLED）<br>
 <img src="./sources/light/pic/oled.jpg" width="80%"><br>
-- 数字投影微型显示器（DLP）
-&nbsp;&nbsp; 也称为数字微镜器件（DMD），该显示器由大约200万个单独控制的微镜组成，每个微镜可用于表示单个像素。
+- 数字投影微型显示（DLP）<br>
+&nbsp;&nbsp; 也称为数字微镜器件（DMD），该显示器由大约200万个单独控制的微镜组成，每个微镜可用于表示单个像素，由MEMS控制。
 这些微镜中的每一个的尺寸约为5.4微米。<br>
 <img src="./sources/light/pic/dlp.jpg" width="80%"><br>
-- 硅上液晶微型显示器（LCoS）
+- 硅基液晶微型显示（LCoS）<br>
 &nbsp;&nbsp; LCoS显示器位于LCD和DLP显示器之间。
 LCD是一种透射技术，其中图像被生成并传输给用户，而DLP是一种反射技术，其中各个子像素通过微镜反射。<br>
 <img src="./sources/light/pic/lcos.jpg" width="80%"><br>
+- 激光光束扫描（LBS）<br><br> 
+<img src="./sources/light/pic/ac2.jpg" width="80%"><br>
 
----
 
+#### 近眼显示
+
+- 多焦面显示（Multi-focal ）：<br>
+&nbsp;&nbsp; 以Magic Leap One 为代表，根据虚拟物体在虚拟空间中的远近位置，将其对应投影至两个及以上焦平面。
+由于该技术存在无法实现连续焦距变化，实现所需光学系统复杂，光学系统复杂程度且制造成本随焦面数量增加而成指数级增加等诸多不足，
+相比起其他可连续变焦或光场显示技术，具备一定过渡性质。<br>
+- 可变焦显示器技术（Varifocal ）：<br>
+&nbsp;&nbsp; 一般来讲，仅适用于VR设备，以Oculus Half Dome 原型机为代表，采用机械装置前后移动屏幕的位置来实现图像的焦距变化，
+配合眼动追踪、注视点渲染等多种软硬件技术，模拟出人眼在观察远近不同物体时发生的屈光调节和双目辐辏调节过程。
+可变焦显示器大量采用已成熟的技术作为实现基础，兼顾技术实现性和量产可行性，将成为下一代高端VR终端标配近眼显示技术。<br>
+- 焦面显示器技术（Focal Surface）：<br>
+&nbsp;&nbsp; 使用光相位调制器SLM把图像深度信息添加到普通2D屏幕画面中，让其在观察方向上模拟出图像的远近深度信息，
+可作为近似的光场显示技术，目前Oculus将其定义为下二代VR显示的重要发展方向，
+目前该技术存在结构复杂，所需SLM价格昂贵，图像分辨率、显示视场偏小等技术瓶颈有待攻克。<br>
+- 光场显示(Light Field) ：<br>
+&nbsp;&nbsp; 当前多种光场显示技术方案停留在实验室阶段，其技术路径和配套设备存在大量研发瓶颈，中近期均无法量产普及。
+由于光场显示技术可以完全契合自然情况下人眼观察外界的原理，成为近眼显示领域追求的终极显示技术 。<br>
 
 
 
