@@ -1,18 +1,16 @@
 ---
 ![logo](favicon.ico)
-# 目录
+## 目录
 
-## [《Quantum machine learning》](quantum-machine-learning.md) 
+### [《Quantum machine learning》](quantum-machine-learning.md) 
+- [V1.0 &nbsp;|&nbsp; 2019.07]  
+### [《Laser》](laser.md)
 
-## [《Laser》](laser.md)
+### [《Light》](light.md)
+- 2020  
+### [《软件使用回顾》](soft.md)
 
-## [《Light》](light.md)
 
-### [V1.0 &nbsp;|&nbsp; 2019.07](https://qumoptly.github.io/)  <br>
-
-### ... 
-
-#### 2020 
-
+<br>
 
 ---
