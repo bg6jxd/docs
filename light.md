@@ -115,40 +115,123 @@ https://qumoptly.github.io/docs/sources/light/learn.pdf
 
 ---
 
+### 光纤传感
+
+分布式温度传感DTS<br>
+&nbsp;&nbsp; 使用当条光纤作为传感器，在系统的一端，激光将光脉冲发送到光纤并通过光纤。
+大部分光在光纤中传播，但一小部分在光纤的每个点处散射。<br>
+光纤基本上表现出三种散射机制：瑞利散射，布里渊散射和拉曼散射。<br>
+
+散射机制|光学测量|物理参数
+:--:|:--:|:--:
+拉曼|幅度（反斯托克斯，斯托克斯）|温度
+布里渊|频率，振幅|温度，应变
+瑞利|振幅，相位|动态温度和应变
+
+<br>
+<img src="./sources/light/nkt/spectra.png" width="60%"><br>
+
+- 布里渊散射用于温度和应变测量<br>
+&nbsp;&nbsp; 布里渊散射需要更复杂的检测方案，因为其相对于激光线的频移很小。分析的布里渊频率取决于温度和应变，因此必须由系统分隔参数。
+广泛用于与地面运动及其对基础设施（如管道，电缆，大坝，火车轨道，桥梁，隧道和建筑物）的影响相关的分布式应变传感（DSS）。结构监测。<br>
+
+- 瑞利散射用于动态温度和应变测量<br>
+&nbsp;&nbsp; 分布式声学传感（DAS）通常基于相干瑞利散射。来自多个散射中心的瑞利散射光的干涉导致了斑点图案，该斑点图案取决于叠加的光波之间的相位差。
+图案对纤维长度的变化极为敏感；几十纳米的差异会导致典型波长约为1.5 µm的光发生明显的相位变化。<br>
+<img src="./sources/light/nkt/sensitivity.png" width="60%"><br>
+
+- 拉曼散射用于温度感测<br>
+&nbsp;&nbsp; 拉曼散射被广泛用于分布式温度感测（DTS），它使用简单的光学滤波器方案来测量反斯托克斯和斯托克斯分量的幅度，然后从它们的比率计算温度曲线。
+主要应用领域是隧道和建筑物中的火灾探测，电力电缆监控，管道监控，油气井内监控以及地热/环境应用。<br>
+&nbsp;&nbsp; 拉曼散射包括斯托克斯散射和反斯托克斯散射。斯托克斯散射是波长比入射光更长的光，而反斯托克斯散射是较短波长。<br>
+<img src="./sources/light/nkt/raman.jpg" width="80%"><br>
+尽管斯托克斯散射仅受温度的轻微影响，但反斯托克斯散射的强度随温度升高而增加。<br>
+如果温度在某个位置发生变化，则DTS系统会计算出确切的温度​​和位置。<br>
+通过测量斯托克斯强度和反斯托克斯强度之间的差来确定温度。这是通过激光源中的定向耦合器完成的。<br>
+温度变化的位置是通过测量散射返回源所花费的时间来确定的，从而可以精确地确定变化的位置。<br>
 
 
+---
 
+<details>
+<summary>光纤处理：</summary>
 
+- 剥离切割并耦合到PCF：<a href="./sources/light/nkt/stripping_cleaving_and_coupling.pdf" target="_blank">PDF</a><br>  
+- 拼接单模光子晶体光纤：<a href="./sources/light/nkt/splicing_single-mode_photonic_crystal_fibers.pdf" target="_blank">PDF</a><br>  
+- 光纤刻面的损伤阈值：<a href="./sources/light/nkt/damage-threshold-of-fiber-facets-2012.pdf" target="_blank">PDF</a><br>  
+</details><br>
 
+<details>
+<summary>超连续谱的产生：</summary>
 
+- AeroGAIN-ROD-PM85放大ps脉冲：<a href="./sources/light/nkt/amplifying-ps-pulses-using-the-aerogain-rod-pm85.pdf" target="_blank">PDF</a><br>  
+- [Layertec catalog](https://www.layertec.de/en/downloads/)<br>
+- 光子晶体光纤中超连续谱的产生：<a href="./sources/light/nkt/Supercontinuum-General.pdf" target="_blank">PDF</a><br> 
+超连续谱的产生是通过短的高功率脉冲通过非线性介质的传播而形成的宽连续光谱。
+涉及的非线性效应取决于材料中的色散和计数效应，例如自相位调制（SPM），拉曼散射，相位匹配和孤子。<br>
+- SCG-800 PCF：<a href="./sources/light/nkt/Supercontinuum-Generation-in-SCG-800.pdf" target="_blank">PDF</a><br>  
+</details><br>
 
+---
 
+### 显示AR、VR
 
+- [Radiant](https://www.radiantvisionsystems.com/zh-hans/blog)<br>
 
+虚拟现实（VR）、增强现实（AR）和混合现实（MR）设备高度依赖近眼显示器（NED）的质量。<br>
+<details>
+<summary>包括：</summary>
 
+- 亮度或色彩不均匀<br>
+- 对比度问题<br>
+- Mura（瑕疵）<br>
+- 线和像素缺陷<br>
+- 视角差异<br>
+- 图像残留/重影（或像素切换响应时间）<br>
+<a href="./sources/light/nkt/Light-Color-Poster.pdf" target="_blank">色度测量</a><br> 
+显示器类型（LCD、LCOS、OLED或DLP）<br>
+投影几何（透射式、反射式或半透反射式设计）<br>
+光学（不透明、鸟池式、自由空间、光导、波导、曲面镜或定制光学元件）<br>
+人眼视场（FOV）:平均而言，双眼水平FOV为200°，双眼重叠区域120°，垂直视场约为130°。<br>
+瞳孔间距离（IPD）：50-75mm ，眼部缓解距离约12mm<br>
+瞳孔成型和非瞳孔成型架构。
 
+</details><br>
 
+#### 波导
 
+- 全息波导<br>
+<img src="./sources/light/pic/holo.jpg" width="80%"><br>
+- 衍射波导<br>
+<img src="./sources/light/pic/diffractive.jpg" width="80%"><br>
+- 偏振波导<br>
+<img src="./sources/light/pic/polarized.jpg" width="80%"><br>
+- 反射波导<br>
+<img src="./sources/light/pic/reflective.jpg" width="80%"><br>
 
+#### 显示结构
 
+- 完全沉浸式<br>
+立体显示器与传感器结合在一起以跟踪位置和方向。<br>
+- 光学透视<br>
+可以直接通过光学元素（例如全息波导和其他可在现实世界中进行图形叠加的系统）查看现实。<br>
+- 视频透视<br>
+摄像头捕获现实图像，然后将这些相机视图与计算机生成的图像结合起来。<br>
+<img src="./sources/light/pic/display.jpg" width="80%"><br>
 
+- 液晶显示器（LCD）<br>
+- 有机发光二极管（OLED）<br>
+<img src="./sources/light/pic/oled.jpg" width="80%"><br>
+- 数字投影微型显示器（DLP）
+&nbsp;&nbsp; 也称为数字微镜器件（DMD），该显示器由大约200万个单独控制的微镜组成，每个微镜可用于表示单个像素。
+这些微镜中的每一个的尺寸约为5.4微米。<br>
+<img src="./sources/light/pic/dlp.jpg" width="80%"><br>
+- 硅上液晶微型显示器（LCoS）
+&nbsp;&nbsp; LCoS显示器位于LCD和DLP显示器之间。
+LCD是一种透射技术，其中图像被生成并传输给用户，而DLP是一种反射技术，其中各个子像素通过微镜反射。<br>
+<img src="./sources/light/pic/lcos.jpg" width="80%"><br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 
 
