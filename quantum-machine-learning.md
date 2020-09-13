@@ -29,6 +29,7 @@
 
 `https://www.chromeexperiments.com/experiment/quantum-computing-playground `  <br>
 `https://quantumexperience.ng.bluemix.net/qstage/#/qasm `  <br>
+`本源量子云 <br> https://qcloud.qubitonline.cn/`  <br>
 
 ---
 
