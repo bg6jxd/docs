@@ -26,6 +26,7 @@
 【<a href="https://research.google.com/pubs/QuantumAI.html">谷歌的QuantumAI</a>】 &nbsp;【<a href="http://research.ibm.com/ibm-q/">IBM的ibm-q</a>】
 <br>
 2016-2017：  <br>
+
 `https://www.chromeexperiments.com/experiment/quantum-computing-playground `  <br>
 `https://quantumexperience.ng.bluemix.net/qstage/#/qasm `  <br>
 2020 更新 <br>
