@@ -30,6 +30,7 @@
 `https://www.chromeexperiments.com/experiment/quantum-computing-playground `  <br>
 `https://quantumexperience.ng.bluemix.net/qstage/#/qasm `  <br>
 2020 更新 <br>
+
 `本源量子云：  https://qcloud.qubitonline.cn/`  <br>
 `本源溯知：  https://learn-quantum.com/`  <br>
 <a href="https://learn-quantum.com/EDU/quantumLearning.html#1">【量子课堂】</a>、
