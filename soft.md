@@ -5,7 +5,7 @@
 
 ---
 ### 2020学习 
-For exp <a href="./archives/soft/2014_lascad_2/">2014激光器设计与LASCAD使用培训2</a>
+For exp <a href="../archives/soft/2014_lascad_2/">2014激光器设计与LASCAD使用培训2</a>
 > PATH 目录自动生成
 
 - `tree /f > 2020学习.md`
