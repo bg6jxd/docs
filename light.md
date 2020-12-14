@@ -17,7 +17,7 @@
 
 
 ```pdf
-https://qumoptly.github.io/docs/sources/light/learn.pdf
+https://qumoptly.github.io/docs/sources/light/list.pdf
 ```
 
 ---
