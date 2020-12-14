@@ -1,8 +1,7 @@
 # Light
 > 资料整理、学习记录，OneNote备份。
 
-[](./sources/light.mp3 ':include :type=iframe width=100% height=0px' )
-
+<audio id="bgmusic" src="./sources/light.mp3" autoplay preload controls></audio>
 
 ## OneNote
 
