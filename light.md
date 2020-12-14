@@ -1,7 +1,7 @@
 # Light
 > 资料整理、学习记录，OneNote备份。
 
-[](https://m10.music.126.net/20201214162248/5990bf583f3d0dfc9616a2eece653351/ymusic/0552/055a/0f5a/287df07fbc205500f4a080688d4a6bc4.mp3 ':include :type=iframe width=100% height=0px' )
+[](./sources/light.mp3 ':include :type=iframe width=100% height=0px' )
 
 
 ## OneNote
@@ -9,11 +9,18 @@
 ---
 
 ### OneNote导出：
+<details>
+<summary>相关资源：[打开]</summary>
+
 - Resources：<a href="./sources/light/Technical Resources.pdf" target="_blank">PDF</a><br> 
 - Thorlab：<a href="./sources/light/Thorlab.pdf" target="_blank">PDF</a><br> 
 - reZonator介绍：<a href="./sources/light/reZonator.pdf" target="_blank">PDF</a><br> 
 - 锁模固体激光：<a href="./sources/light/modelocking.pdf" target="_blank">PDF</a><br> 
 - 学习整理：<a href="./sources/light/learn.pdf" target="_blank">PDF</a><br> 
+
+</details>
+
+- [PDFJS](https://qumoptly.github.io/archives/note.html)
 
 
 ```pdf
