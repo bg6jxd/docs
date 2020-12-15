@@ -25,14 +25,19 @@
 量子计算机科学和量子信息科学领域将在未来10年内对AI进行重大改变。<br>  
 【<a href="https://research.google.com/pubs/QuantumAI.html">谷歌的QuantumAI</a>】 &nbsp;【<a href="http://research.ibm.com/ibm-q/">IBM的ibm-q</a>】
 <br>
+
+---
+
+### 更新： 
 2016-2017：  <br>
 
 `https://www.chromeexperiments.com/experiment/quantum-computing-playground `  <br>
 `https://quantumexperience.ng.bluemix.net/qstage/#/qasm `  <br>
-2020 更新 <br>
 
-`百度Paddle Quantum：  https://github.com/paddlepaddle/quantum/`  <br>
-`百度Quantum-Hub：  https://quantum-hub.baidu.com/`  <br>
+2020 更新： <br>
+
+`百度 Paddle Quantum：  https://github.com/paddlepaddle/quantum/`  <br>
+`百度 Quantum-Hub：  https://quantum-hub.baidu.com/`  <br>
 `本源量子云：  https://qcloud.qubitonline.cn/`  <br>
 `本源溯知：  https://learn-quantum.com/`  <br>
 <a href="https://learn-quantum.com/EDU/quantumLearning.html#1">【量子课堂】</a>、
@@ -41,6 +46,9 @@
 <a href="https://docs.microsoft.com/en-us/quantum/?view=qsharp-preview">Microsoft Quantum文档</a> <br>
 `TensorFlow Quantum 0.4.0：  https://tensorflow.google.cn/quantum/overview`  <br>
 `"九章" http://www.quantumcas.ac.cn/2020/1204/c20525a462639/page.htm`  <br>
+
+<a href="https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology">AlphaFold</a>  <br>
+`Alphafold_casp13： https://github.com/deepmind/deepmind-research/tree/master/alphafold_casp13`  <br>
 
 ---
 
