@@ -38,7 +38,9 @@
 <a href="https://learn-quantum.com/EDU/quantumLearning.html#1">【量子课堂】</a>、
 <a href="https://learn-quantum.com/assets/lecture/Introduction_to_quantum_computing_and_programming.pdf">《量子计算与编程入门》电子版</a><br>
 <a href="https://github.com/microsoft/QuantumKatas">Microsoft Quantum Katas </a>、
-<a href="https://docs.microsoft.com/en-us/quantum/?view=qsharp-preview">Microsoft Quantum文档</a>
+<a href="https://docs.microsoft.com/en-us/quantum/?view=qsharp-preview">Microsoft Quantum文档</a> <br>
+`TensorFlow Quantum 0.4.0：  https://tensorflow.google.cn/quantum/overview`  <br>
+`"九章" http://www.quantumcas.ac.cn/2020/1204/c20525a462639/page.htm`  <br>
 
 ---
 
