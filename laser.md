@@ -1,11 +1,10 @@
 # 激光
-> 墙外资料整理、学习&备份；资源来源于网络，仅个人使用。【[来源](http://www.swissrocketman.fr/)】 <br> 
-- <p align="right"> By | 2020 &nbsp;&nbsp;&nbsp;&nbsp;</p>
+- 墙外资料整理、学习&备份； 【资源来源于网络】 <br> 
+ <p align="right"> By | 2020 &nbsp;&nbsp;&nbsp;&nbsp;</p>
 ---
 ## 参考
 > [rp-photonics](https://www.rp-photonics.com/lasers.html)<br>
-> [图片](https://www.flickr.com/photos/100053860@N08/) &nbsp;&nbsp; 
-> [swissrocketman](http://www.swissrocketman.fr/) <br>
+> [图片  swissrocketman](https://www.flickr.com/photos/100053860@N08/) <br>
 ---
 ## 简介
 
